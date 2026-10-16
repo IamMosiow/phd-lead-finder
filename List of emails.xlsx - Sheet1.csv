@@ -2,7 +2,7 @@ Professor,University,Country,Ranking,Subject,Email?,Responed?,Fund,Dead line,Pri
 Davide Dardari,University of Bologna,Italy,,Wireless communication and localization,☑,N,P ~1700,,6.0,https://openalex.org/A5043546527,,YES,YES,FPGA & Edge AI,Pietro Manzoni,An evaluation methodology to determine the actual limitations of a TinyML-based solution (2023)
 Carlo Alberto Boano,Graz University of Technology,Austria,,"IoT, Wireless Sensor Networks",☑,Y!,??,,7.0,https://openalex.org/A5048811541,carloalberto.boano@gmail.com,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Ismail Guvenc,North Carolina State University,The US,,"5G, Localization",☐,,,,5.0,https://openalex.org/A5100624451,,YES,YES,FPGA & Edge AI,Xipeng Shen,Space-Efficient TREC for Enabling Deep Learning on Microcontrollers (2023)
-,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15 00:00:00,7.0,,,YES,YES,,,
+,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15,7.0,,,YES,YES,,,
 Klaus Witrisal, Graz University of Technology,Austria,,Wireless CommunicationsSignal ProcessingChannel ModelingRadio Localization and Sensing,☐,,3000,,6.0,https://openalex.org/A5048811541,,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Olga Saukh, Graz University of Technology,Austria,,embedded intelligencemachine learningdeep learningsensingedge AI,☐,,,,6.0,,,YES,YES,,,
 Rajesh Balan,Singapore Management University,Singapore,,"GPS, Software",☐,,,,6.0,,rajesh@smu.edu.sg,YES,YES,,,
@@ -148,11 +148,11 @@ Junming Zhao,Arizona State University,,,A Novel Ultra‐Wideband Electromagnetic
 Naofal Al‐Dhahir,University of Texas at Dallas,,,OpenPose-Inspired Reduced-Complexity CSI-Based Wi-Fi Indoor Localization (2024),,,,,,https://openalex.org/A5051431139,,YES,YES,FPGA & Edge AI,Tooraj Nikoubin,TinyML Enabled Real-Time Bearing Fault Classification in Motors Using Vibration Signals (2025)
 Wei Dong,Northeastern University,,,Asymmetry Stagger Array Structure Ultra-Wideband Vibration Harvester Integrating Magnetically Coupled Nonlinear Effects (2023),,,,,,https://openalex.org/A5143702357,,YES,YES,FPGA & Edge AI,Jiaming Hao,TinyML Model for Anomalous Gait Recognition in Real Clinical Scenarios: A Study on Generalization (2026)
 Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Based Federated Learning for Multiuser Indoor Positioning Performance Optimization (2024),,,,,,https://openalex.org/A5065410886,,YES,YES,FPGA & Edge AI,Ranga Raju Vatsavai,Efficient Multi-Domain Instance Segmentation with Modular Shared-Head Routing (2025)
-,University of Cambridge,United Kingdom,,,,,,,,https://www.cam.ac.uk,,NO,NO,,,
-,Imperial College London,United Kingdom,,,,,,,,https://www.imperial.ac.uk,,NO,NO,,,
-,University of Chinese Academy of Sciences,China,,,,,,,,https://www.ucas.ac.cn,,NO,NO,,,
-,The University of Osaka,Japan,,,,,,,,https://www.osaka-u.ac.jp,,NO,NO,,,
-,University of Manchester,United Kingdom,,,,,,,,https://www.manchester.ac.uk/,,NO,NO,,,
+,University of Cambridge,United Kingdom,,,,,,,,https://openalex.org/A5085582572,,YES,YES,Localization,M. J. Allen,Antenna Design for Indoor Positioning Systems: Challenges and Solutions (2024)
+,Imperial College London,United Kingdom,,,,,,,,https://openalex.org/A5039289964,,YES,YES,Localization,Geoffrey Ye Li,CSI-Fingerprinting Indoor Localization via Attention-Augmented Residual Convolutional Neural Network (2023)
+,University of Chinese Academy of Sciences,China,,,,,,,,https://openalex.org/A5100376373,,YES,YES,Localization,Zhi Wang,UWBLoc: NLoS Mitigation for Practical UWB Localization (2023)
+,The University of Osaka,Japan,,,,,,,,,,YES,YES,Localization,Moustafa Youssef,MambaLoc: Lightweight Indoor Localization For Unmanned Vehicles Using Cross-Modal Knowledge Distillation (2025)
+,University of Manchester,United Kingdom,,,,,,,,https://openalex.org/A5068254239,,YES,YES,Localization,Mehmet Kemal Özdemir,Cyber-WISE: A Cyber-Physical Deep Wireless Indoor Positioning System and Digital Twin Approach (2023)
 ,Sapienza University of Rome,Italy,,,,,,,,https://www.uniroma1.it,,NO,NO,,,
 ,Huazhong University of Science and Technology,China,,,,,,,,http://english.hust.edu.cn/,,NO,NO,,,
 ,Politecnico di Milano,Italy,,,,,,,,https://polimi.it,,NO,NO,,,
