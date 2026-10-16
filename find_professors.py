@@ -7,24 +7,24 @@ import pandas as pd
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
-# Detect whichever file is present in the repository
-if os.path.exists("List of emails.xlsx"):
-    FILE_NAME = "List of emails.xlsx"
-elif os.path.exists("List of emails.xlsx - Sheet1.csv"):
-    FILE_NAME = "List of emails.xlsx - Sheet1.csv"
-else:
-    FILE_NAME = "List of emails.xlsx"
+XLSX_FILE = "List of emails.xlsx"
+CSV_FILE = "List of emails.xlsx - Sheet1.csv"
+FILE_NAME = XLSX_FILE if os.path.exists(XLSX_FILE) else CSV_FILE
 
-# ==============================================================================
-# BROADER CV RESEARCH TAXONOMY (NON-LOCALIZATION)
-# ==============================================================================
-# --- PREVIOUS LOCALIZATION GROUPS (COMMENTED OUT) ---
-# SEARCH_GROUPS = [
-#     ("Localization", ["ultra-wideband", "indoor localization", "indoor positioning", "channel impulse response", "CSI sensing", "TDoA"]),
-#     ("Wireless Sensing", ["wireless localization", "RF sensing", "sensor fusion", "ISAC", "6G localization", "pedestrian dead reckoning"]),
-# ]
+# 1. Localization Groups (Used only when 'Checked?' != 'YES')
+LOCALIZATION_GROUPS = [
+    (
+        "Localization",
+        ["ultra-wideband", "indoor localization", "indoor positioning", "channel impulse response", "CSI sensing", "TDoA"]
+    ),
+    (
+        "Wireless Sensing",
+        ["wireless localization", "RF sensing", "sensor fusion", "ISAC", "6G localization", "pedestrian dead reckoning"]
+    )
+]
 
-SEARCH_GROUPS = [
+# 2. Broader CV Groups
+GENERAL_GROUPS = [
     (
         "FPGA & Edge AI",
         [
@@ -73,7 +73,7 @@ def send_telegram_html(text):
     requests.post(url, json=payload, timeout=20)
 
 def send_telegram_document(file_path, caption=""):
-    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID or not os.path.exists(file_path):
         return
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendDocument"
     try:
@@ -92,9 +92,10 @@ def clean_university_name(name):
     name = re.sub(r'[",]', '', name)
     return name.strip()
 
-def search_faculty_broad(raw_uni_name):
+def search_faculty(raw_uni_name, include_localization=False):
     clean_name = clean_university_name(raw_uni_name)
-    print(f"--> Searching OpenAlex for: {clean_name}")
+    mode_str = "ALL FIELDS (Localization + General)" if include_localization else "GENERAL FIELDS ONLY"
+    print(f"--> Searching OpenAlex for: {clean_name} [{mode_str}]")
     discovered = []
     headers = {"User-Agent": "mailto:phd_lead_bot@academic.org"}
 
@@ -109,7 +110,9 @@ def search_faculty_broad(raw_uni_name):
         print(f"    [!] Error looking up institution: {e}")
         return discovered
 
-    for field_label, kw_list in SEARCH_GROUPS:
+    active_groups = (LOCALIZATION_GROUPS + GENERAL_GROUPS) if include_localization else GENERAL_GROUPS
+
+    for field_label, kw_list in active_groups:
         query_str = " OR ".join([f'"{k}"' for k in kw_list[:5]])
         works_url = (
             f"https://api.openalex.org/works?"
@@ -124,7 +127,7 @@ def search_faculty_broad(raw_uni_name):
                 title = work.get("title", "N/A")
                 pub_year = work.get("publication_year", "")
                 authorships = work.get("authorships", [])
-                
+
                 chosen = authorships[-1] if len(authorships) > 1 else (authorships[0] if authorships else None)
                 if chosen:
                     author_info = chosen.get("author", {})
@@ -136,7 +139,7 @@ def search_faculty_broad(raw_uni_name):
                         "year": pub_year,
                         "profile_url": author_info.get("id", "")
                     })
-            if len(discovered) >= 2:
+            if len(discovered) >= 3:
                 break
         except Exception as e:
             print(f"    [!] Error querying works for {field_label}: {e}")
@@ -151,15 +154,13 @@ def main():
 
     df = pd.read_csv(FILE_NAME) if FILE_NAME.endswith(".csv") else pd.read_excel(FILE_NAME)
 
-    # Initialize new columns if they do not exist
-    for col in ["Checked_General?", "Discovered_Field", "General_PI", "General_Paper"]:
+    for col in ["Checked?", "Checked_General?", "Discovered_Field", "General_PI", "General_Paper"]:
         if col not in df.columns:
-            df[col] = "NO" if col == "Checked_General?" else ""
+            df[col] = "NO" if "Checked" in col else ""
 
-    # Select universities not yet scanned for general fields
     mask = (
-        (df["University"].notna()) & 
-        (df["University"].astype(str).str.strip() != "") & 
+        (df["University"].notna()) &
+        (df["University"].astype(str).str.strip() != "") &
         (df["University"].astype(str).str.lower() != "nan") &
         (df["Checked_General?"].astype(str).str.upper() != "YES")
     )
@@ -167,7 +168,7 @@ def main():
 
     if pending_rows.empty:
         print("[✓] All universities checked.")
-        send_telegram_html("🎉 <b>All universities have been processed across broader CV fields!</b>")
+        send_telegram_html("🎉 <b>All universities in your list have been processed!</b>")
         return
 
     batch = pending_rows.head(5)
@@ -177,7 +178,11 @@ def main():
     all_matches = []
     for idx, row in batch.iterrows():
         uni = str(row["University"]).strip()
-        profs = search_faculty_broad(uni)
+        # If 'Checked?' is NOT 'YES', this is a newly added university -> search Localization + General!
+        already_checked_loc = str(row.get("Checked?", "")).strip().upper() == "YES"
+        profs = search_faculty(uni, include_localization=(not already_checked_loc))
+
+        df.at[idx, "Checked?"] = "YES"
         df.at[idx, "Checked_General?"] = "YES"
 
         if profs:
@@ -188,16 +193,19 @@ def main():
             df.at[idx, "Note"] = profs[0]["profile_url"]
         time.sleep(1)
 
-    # Save progress back to disk
-    if FILE_NAME.endswith(".csv"):
-        df.to_csv(FILE_NAME, index=False)
-    else:
-        df.to_excel(FILE_NAME, index=False)
+    # Save to BOTH .xlsx and .csv so both files stay in sync
+    try:
+        df.to_excel(XLSX_FILE, index=False)
+    except Exception:
+        pass
+    try:
+        df.to_csv(CSV_FILE, index=False)
+    except Exception:
+        pass
 
-    # Send report to Telegram
     if all_matches:
-        msg = f"🎯 <b>Discovered {len(all_matches)} Labs in Broader CV Fields:</b>\n\n"
-        for item in all_matches:
+        msg = f"🎯 <b>Discovered {len(all_matches)} Labs:</b>\n\n"
+        for item in all_matches[:8]:
             msg += (
                 f"🏛 <b>{item['university']}</b>\n"
                 f"🏷 <b>Field:</b> <code>{item['field']}</code>\n"
@@ -208,13 +216,12 @@ def main():
         send_telegram_html(msg)
     else:
         send_telegram_html(
-            f"🔍 <b>Checked 5 Universities (Broader Fields):</b>\n" + 
-            "\n".join([f"• {u}" for u in universities]) + 
+            f"🔍 <b>Checked 5 Universities:</b>\n" +
+            "\n".join([f"• {u}" for u in universities]) +
             "\n\n<i>No publications found in this cycle.</i>"
         )
 
-    # Send updated spreadsheet directly to Telegram chat
-    send_telegram_document(FILE_NAME, caption="💾 Updated tracking sheet (Broader CV Fields).")
+    send_telegram_document(XLSX_FILE, caption="💾 Updated tracking sheet.")
 
 if __name__ == "__main__":
     main()
