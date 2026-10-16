@@ -1,150 +1,200 @@
-Professor,University,Country,Ranking,Subject,Email?,Responed?,Fund,Dead line,Priority,Note,Email addresss,Checked?
-Davide Dardari,University of Bologna,Italy,,Wireless communication and localization,☑,N,P ~1700,,6.0,,,YES
-Carlo Alberto Boano,Graz University of Technology,Austria,,"IoT, Wireless Sensor Networks",☑,Y!,??,,7.0,they answered and told me to apply again for spring 2026,carloalberto.boano@gmail.com,YES
-Ismail Guvenc,North Carolina State University,The US,,"5G, Localization",☐,,,,5.0,,,YES
-,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15,7.0,,,YES
-Klaus Witrisal, Graz University of Technology,Austria,,Wireless CommunicationsSignal ProcessingChannel ModelingRadio Localization and Sensing,☐,,3000,,6.0,,,YES
-Olga Saukh, Graz University of Technology,Austria,,embedded intelligencemachine learningdeep learningsensingedge AI,☐,,,,6.0,,,YES
-Rajesh Balan,Singapore Management University,Singapore,,"GPS, Software",☐,,,,6.0,,rajesh@smu.edu.sg,YES
-Niki Trigoni,University of Oxford,UK,,Sensor networksIndoor localisationCyber physical systems,☐,,,,8.0,,niki.trigoni@cs.ox.ac.uk,YES
-Juha Plosila,University of Turku,Finland,,"embedded systems, multiprocessor system-on-chip (SoC), heterogeneous systems, reconfigurable computing, digital circuits and systems.",☐,,,,5.0,,,YES
-Antti Honkela,University of Helsinki,Finland,,Data Science (Machine Learning & AI),☐,,,,9.0,,,YES
-Jukka Talvitie,University of Helsinki,Finland,,Toward Seamless Localization: Situational Awareness Using UWB Wearable Systems and Convolutional Neural Networks (2023),☐,,,,9.0,https://openalex.org/A5044609448,,YES
-Luca Benini,ETH Zürich and Bologna,Switzerland and Italy,,Self-Sustaining Ultrawideband Positioning System for Event-Driven Indoor Localization (2023),☐,,,,10.0,https://openalex.org/A5043408422,,YES
-Cheng‐Wei Qiu,National University of Singapore (NUS),Singapore,,Origami metamaterials for ultra-wideband and large-depth reflection modulation (2024),☐,,,,10.0,https://openalex.org/A5089609880,,YES
-Solmaz S. Kia,"University of California, Irvine (UCI)",The Us,,Self-Localizing On-Demand Portable Wireless Beacons for Coverage Enhancement of RF Beacon-Based Indoor Localization Systems (2023),☐,,,,8.0,https://openalex.org/A5049439078,,YES
-,,,,,,,,,,,,NO
-Cheng‐Wei Qiu,National University of Singapore (NUS),Singapore,,Origami metamaterials for ultra-wideband and large-depth reflection modulation (2024),,,,,10.0,https://openalex.org/A5089609880,,YES
-,"Nanyang Technological University, Singapore (NTU Singapore)",Singapore,,,,,,,10.0,,,YES
-Cheng‐Wei Qiu,Singapore University of Technology and Design (QS 519),Singapore,,Origami metamaterials for ultra-wideband and large-depth reflection modulation (2024),,,,,10.0,https://openalex.org/A5089609880,,YES
-,The University of Auckland,New Zealand,,,,,,,7.0,,,YES
-Sarah Whitehead,University of Otago,New Zealand,,Consensus on a netball video analysis framework of descriptors and definitions by the netball video analysis consensus group (2023),,,,,6.0,https://openalex.org/A5045152528,,YES
-Xuan Song,The University of Tokyo,Japan,,Domain Adversarial Graph Convolutional Network Based on RSSI and Crowdsensing for Indoor Localization (2023),,,,,10.0,https://openalex.org/A5046856721,,YES
-Hiroshi Harada,Kyoto University,Japan,,3GPP-Compatible Channel Generation Framework for FR2-2 Indoor Short-Range Communication (2023),,,,,10.0,https://openalex.org/A5087987207,,YES
-Yi‐Ping Hung,Tokyo Institute of Technology (Tokyo Tech),Japan,,VIUNet: Deep Visual–Inertial–UWB Fusion for Indoor UAV Localization (2023),,,,,10.0,https://openalex.org/A5102935450,,YES
-Moustafa Youssef,Osaka University,Japan,,Privacy-Preserving by Design: Indoor Positioning System Using Wi-Fi Passive TDOA (2023),,,,,10.0,https://openalex.org/A5008352007,,YES
-Shinichiro Omachi,Tohoku University,Japan,,Collaborative Indoor Positioning by Localization Comparison at an Encounter Position (2023),,,,,9.0,https://openalex.org/A5020830042,,YES
-Nobuo Kawaguchi,Nagoya University,Japan,,A Survey of Ground Truth Measurement Systems for Indoor Positioning (2023),,,,,9.0,https://openalex.org/A5045353484,,YES
-Hiromichi Hashizume,Hokkaido University,Japan,,Smartphone Indoor Positioning using Inertial and Ambient Light Sensors (2023),,,,,9.0,https://openalex.org/A5102856248,,YES
-Ryo Kurazume,Kyushu University,Japan,,Indoor Position Estimation using NLoS Information by Wireless Distance Sensors (2023),,,,,9.0,https://openalex.org/A5073445963,,YES
-Siti Rohana Ahmad Ibrahim,Waseda University,Japan,,A Review of Indoor Positioning Systems for UAV Localization with Machine Learning Algorithms (2023),,,,,9.0,https://openalex.org/A5020400844,,YES
-Guan Gui,Keio University,Japan,,Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization With CSI Fingerprints (2024),,,,,9.0,https://openalex.org/A5027367677,,YES
-Donghwan Lee,Seoul National University,South Korea,,WayIL: Image-based Indoor Localization with Wayfinding Maps (2024),,,,,10.0,https://openalex.org/A5100654317,,YES
-Jiwon Seo,Yonsei University,South Korea,,Low-Cost GNSS Simulators With Wireless Clock Synchronization for Indoor Positioning (2023),,,,,10.0,https://openalex.org/A5100657256,,YES
-Wonjae Shin,Korea University,South Korea,,"Toward Integrated Sensing and Communications for 6G: Key Enabling Technologies, Standardization, and Challenges (2024)",,,,,10.0,https://openalex.org/A5009725517,,YES
-Kyung‐Tae Kim,Pohang University of Science And Technology (POSTECH),South Korea,,Multipath Signal Mitigation for Indoor Localization Based on MIMO FMCW Radar System (2023),,,,,10.0,https://openalex.org/A5100713090,,YES
-Daehan Kwak,Sungkyunkwan University (SKKU),South Korea,,"A Systematic Review of Contemporary Indoor Positioning Systems: Taxonomy, Techniques, and Algorithms (2024)",,,,,10.0,https://openalex.org/A5009184228,,YES
-Jae-il Jung,Hanyang University,South Korea,,Accurate Indoor Positioning for UWB-Based Personal Devices Using Deep Learning (2023),,,,,9.0,https://openalex.org/A5081367261,,YES
-Gangil Byun,Ulsan National Institute of Science and Technology (UNIST),South Korea,,Ultra-Wideband Frequency-Invariant Beamforming Using a Generalized Nesting Array (2024),,,,,7.0,https://openalex.org/A5044783058,,YES
-Joongeup Kye,Kyung Hee University,South Korea,,Comparative Analysis of Integrated Filtering Methods Using UWB Localization in Indoor Environment (2024),,,,,7.0,https://openalex.org/A5080533010,,YES
-X. J. Zhu,Beijing Normal University,China,,Ultra-wideband polarimetry of the April 2021 profile change event in PSR J1713+0747 (2025),,,,,7.0,https://openalex.org/A5033053320,,YES
-Xingjun Wang,Peking University,China,,Integrated photonics enabling ultra-wideband fibre–wireless communication (2026),,,,,10.0,https://openalex.org/A5126346057,,YES
-Zheng Yang,Tsinghua University,China,,REFLoc: A Resilient Evolutionary Fusion Framework for Robust Indoor Localization (2024),,,,,10.0,https://openalex.org/A5061103594,,YES
-Xin Wang,Fudan University,China,,A Survey of Latest Wi-Fi Assisted Indoor Positioning on Different Principles (2023),,,,,10.0,https://openalex.org/A5061028507,,YES
-Yikai Su,Shanghai Jiao Tong University,China,,Ultra‐wideband integrated photonic devices on silicon platform: from visible to mid‐IR (2023),,,,,10.0,https://openalex.org/A5026515323,,YES
-Tong Cai,Zhejiang University,China,,Multi-characteristic Integrated Ultra-wideband Frequency Selective Rasorber (2024),,,,,10.0,https://openalex.org/A5110977361,,YES
-Junming Zhao,Nanjing University,China,,A Novel Ultra‐Wideband Electromagnetic‐Wave‐Absorbing Metastructure Inspired by Bionic Gyroid Structures (2023),,,,,10.0,https://openalex.org/A5024794935,,YES
-Yikai Su,Shanghai Jiao Tong University,China,,Ultra‐wideband integrated photonic devices on silicon platform: from visible to mid‐IR (2023),,,,,10.0,https://openalex.org/A5026515323,,YES
-Yuanming Shi,Zhejiang University,China,,Energy-Efficient Optimal Mode Selection for Edge AI Inference via Integrated Sensing-Communication-Computation (2024),,,,,10.0,https://openalex.org/A5022499594,,YES
-,Nanjing University,China,,,,,,,10.0,,,YES
-,University of Science and Technology of China,China,,,,,,,9.0,,,YES
-,Tongji University,China,,,,,,,9.0,,,YES
-,Wuhan University,China,,,,,,,9.0,,,YES
-Lars Rönnegård,University of Copenhagen,Denmark,,Cow characteristics associated with the variation in number of contacts between dairy cows (2023),,,,,10.0,https://openalex.org/A5085747746,,YES
-Xiaolong Zhu,Technical University of Denmark,Denmark,,Application of metasurface in future displays (2025),,,,,10.0,https://openalex.org/A5072550494,,YES
-Markus Münzenberg,Aarhus University,Denmark,,Comparative analysis of THz signal emission from bilayer heterostructures: Wideband and high-frequency THz signal advantage of PtBi-based emitter (2024),,,,,10.0,https://openalex.org/A5089808777,,YES
-Susana Póvoas,University of Southern Denmark (SDU),Denmark,,Positional differences in match performance for key elite male team handball players at the EHF EURO 2022 (2026),,,,,8.0,https://openalex.org/A5080521951,,YES
-Yang Miao,Aalborg University,Denmark,,A UAV-Aided Real-Time Channel Sounder for Highly Dynamic Nonstationary A2G Scenarios (2023),,,,,8.0,https://openalex.org/A5039982512,,YES
-Ingve Simonsen,Norwegian University of Science And Technology,Norway,,Switchable Ultra-Wideband All-Optical Quantum Dot Reflective Semiconductor Optical Amplifier (2023),,,,,8.0,https://openalex.org/A5037337156,,YES
-Henrik Baktoft,University of Bergen,Norway,,Positioning aquatic animals with acoustic transmitters (2023),,,,,8.0,https://openalex.org/A5087753687,,YES
-Nobby Stevens,KU Leuven,Belgium,,An Experimental Testbed for the Performance Evaluation of Optical Time Difference of Arrival Based Indoor Positioning (2024),,,,,10.0,https://openalex.org/A5020679063,,YES
-Eli De Poorter,Ghent University,Belgium,,Ultra Wideband (UWB) Localization Using Active CIR-Based Fingerprinting (2023),,,,,9.0,https://openalex.org/A5026442244,,YES
-Radu-Daniel Vatavu,Université catholique de Louvain (UCLouvain),Belgium,,RadarSense: Accurate Recognition of Mid-air Hand Gestures with Radar Sensing and Few Training Examples (2023),,,,,9.0,https://openalex.org/A5033726877,,YES
-,Universite libre de Bruxelles,Belgium,,,,,,,8.0,,,YES
-Orhan Dağdevıren,University of Antwerp,Belgium,,An Experimental Evaluation of Indoor Localization in Autonomous Mobile Robots (2025),,,,,10.0,https://openalex.org/A5004224779,,YES
-Johan Stien,Vrije Universiteit Brussel (VUB),Belgium,,Machine learning-optimized terahertz ultra-wideband tunable metamaterial absorber (2025),,,,,8.0,https://openalex.org/A5117422059,,YES
-Emily Arnold,Université de Liège,Belgium,,Snow stratigraphy observations from Operation IceBridge surveys in Alaska using S and C band airborne ultra-wideband FMCW (frequency-modulated continuous wave) radar (2023),,,,,7.0,https://openalex.org/A5000544440,,YES
-Fredrik Tufvesson,Lund University,Sweden,,High-Precision Machine-Learning Based Indoor Localization with Massive MIMO System (2023),,,,,10.0,https://openalex.org/A5073439066,,YES
-Mikael Gidlund,KTH Royal Institute of Technology,Sweden,,Indoor Positioning in 5G-Advanced: Challenges and Solution Toward Centimeter-Level Accuracy with Carrier Phase Enhancements (2024),,,,,10.0,https://openalex.org/A5004012289,,YES
-Isaac Skog,Uppsala University,Sweden,,MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning (2023),,,,,10.0,https://openalex.org/A5057769293,,YES
-Henrik Baktoft,Stockholm University,Sweden,,Positioning aquatic animals with acoustic transmitters (2023),,,,,9.0,https://openalex.org/A5087753687,,YES
-Mikko Valkama,Chalmers University of Technology,Sweden,,Failure Tolerant Phase-Only Indoor Positioning via Deep Learning (2025),,,,,9.0,https://openalex.org/A5054197935,,YES
-Daniel Arvidsson,University of Gothenburg,Sweden,,Fourteen days free-living evaluation of an open-source algorithm for counting steps in healthy adults with a large variation in physical activity level (2023),,,,,8.0,https://openalex.org/A5078102195,,YES
-Daniel Arvidsson,University of Gothenburg,Sweden,,Fourteen days free-living evaluation of an open-source algorithm for counting steps in healthy adults with a large variation in physical activity level (2023),,,,,7.0,https://openalex.org/A5078102195,,YES
-,Umea University,Sweden,,,,,,,6.0,,,YES
-Nuria González‐Prelcic,Aalto University,Finland,,"Multicarrier ISAC: Advances in waveform design, signal processing, and learning under nonidealities (2024)",,,,,9.0,https://openalex.org/A5056278281,,YES
-Jukka Talvitie,University of Helsinki,Finland,,Toward Seamless Localization: Situational Awareness Using UWB Wearable Systems and Convolutional Neural Networks (2023),,,,,9.0,https://openalex.org/A5044609448,,YES
-Markku Juntti,University of Oulu,Finland,,Performance Analysis and Power Allocation for Massive MIMO ISAC Systems (2025),,,,,7.0,https://openalex.org/A5029534229,,YES
-Jorge Peña-Queralta,University of Turku,Finland,,Exploiting redundancy for UWB anomaly detection in infrastructure-free multi-robot relative localization (2023),,,,,7.0,https://openalex.org/A5093561961,,YES
-Zhen Zhang,Lappeenranta-Lahti University of Technology LUT,Finland,,Research on 3D Localization Technology Based on Hybrid Signal Models and Adaptive Dynamic Weight Whale Optimization Algorithm (2025),,,,,6.0,https://openalex.org/A5101480038,,YES
-Angela P. Schoellig,Technical University of Munich,Germany,22,UTIL: An ultra-wideband time-difference-of-arrival indoor localization dataset (2024),,,,,10.0,https://openalex.org/A5052147335,,YES
-Hélène Seroussi,Ludwig-Maximilians-Universität München,Germany,58,"Heterogeneous Basal Thermal Conditions Underpinning the Adélie‐George V Coast, East Antarctica (2024)",,,,,9.0,https://openalex.org/A5046027378,,YES
-Jari Nurmi,Universität Heidelberg,Germany,80,Adaptive approximate computing in edge AI and IoT applications: A review (2024),,,,,9.0,https://openalex.org/A5035297149,,YES
-,Freie Universitaet Berlin,Germany,88,,,,,,9.0,,,YES
-Uwe D. Hanebeck,"KIT, Karlsruhe Institute of Technology",Germany,98,Continuous-Time Ultra-Wideband-Inertial Fusion (2023),,,,,9.0,https://openalex.org/A5055331421,,YES
-Elisabeth Clausen,RWTH Aachen University,Germany,105,Development and Evaluation of a UWB-Based Indoor Positioning System for Underground Mine Environments (2023),,,,,9.0,https://openalex.org/A5054432753,,YES
-Edna Hillmann,Humboldt-Universität zu Berlin,Germany,130,Pinpointing pigs: performance and challenges of an ultra-wideband real-time location system for tracking growing-finishing pigs under practical conditions (2024),,,,,8.0,https://openalex.org/A5017297216,,YES
-Robert B. Kohlhaas,Technische Universität Berlin (TU Berlin),Germany,145,Ultra-Wideband PIN-PD THz Emitter with > 5.5 THz Bandwidth (2024),,,,,8.0,https://openalex.org/A5049029990,,YES
-Alexander Koelpin,Universität Hamburg,Germany,193,Heart Sound Detection Using an Ultra-Wideband FMCW Radar (2023),,,,,8.0,https://openalex.org/A5019989632,,YES
-,The Korea Advanced Institute of Science and Technology (KAIST),South Korea,,,,,,,,,,YES
-Peter B. Shull,Delft University of Technology,Netherlands,,Asynchronous Hyperbolic UWB Source-Localization and Self-Localization for Indoor Tracking and Navigation (2023),,,,,,https://openalex.org/A5076415123,,YES
-Yuchuan Du,Eindhoven University of Technology,Netherlands,,Data-Driven Indoor Positioning Correction for Infrastructure-Enabled Autonomous Driving Systems: A Lifelong Framework (2023),,,,,,https://openalex.org/A5004514343,,YES
-Yang Miao,University of Twente,Netherlands,,A UAV-Aided Real-Time Channel Sounder for Highly Dynamic Nonstationary A2G Scenarios (2023),,,,,,https://openalex.org/A5039982512,,YES
-Luca Benini,ETH Zurich,Switzerland,,Self-Sustaining Ultrawideband Positioning System for Event-Driven Indoor Localization (2023),,,,,,https://openalex.org/A5043408422,,YES
-Andreas Burg,EPFL,Switzerland,,Single-Anchor UWB Localization Using Channel Impulse Response Distributions (2023),,,,,,https://openalex.org/A5059133771,,YES
-Tülin Atmaca,Institut Polytechnique de Paris,France,,XAI Empowered Dual Band Wi-Fi Based Indoor Localization via Ensemble Learning (2023),,,,,,https://openalex.org/A5080399533,,YES
-Isaac Skog,Grenoble INP,France,,MAINS: A Magnetic-Field-Aided Inertial Navigation System for Indoor Positioning (2024),,,,,,https://openalex.org/A5057769293,,YES
-Xiang‐Gen Xia,Harbin Institute of Technology,China,,An Adaptive IMU/UWB Fusion Method for NLOS Indoor Positioning and Navigation (2023),,,,,,https://openalex.org/A5065367615,,YES
-Kenji Suzuki,University of Tsukuba,Japan,,Peer-to-Peer Ultra-Wideband Localization for Hands-Free Control of a Human-Guided Smart Stroller (2024),,,,,,https://openalex.org/A5100618207,,YES
-Nobby Stevens,IMEC / KU Leuven,Belgium,,An Experimental Testbed for the Performance Evaluation of Optical Time Difference of Arrival Based Indoor Positioning (2024),,,,,,https://openalex.org/A5020679063,,YES
-,,,,,,,,,,,,NO
-Lower Universities which can be good,,,,,,,,,,,,NO
-Andreas Stöhr,University of Duisburg-Essen,Germany,801-850,Ultra-Wideband Multi-Octave Planar Interconnect for Multi-Band THz Communications (2023),,,,,5.0,https://openalex.org/A5046865796,,YES
-Ruediger Kays,Technische Universität Dortmund,Germany,673,Achieving Sub-meter Accuracy for 5G Localization at FR1 Bandwidth Limitations (2023),,,,,6.0,https://openalex.org/A5032845767,,YES
-Monika Sester,Leibniz University Hannover,Germany,433,Integrated Multi-Stereo Camera System for Robust Indoor Localization with Temporal Fusion (2024),,,,,7.0,https://openalex.org/A5020817045,,YES
-Daniel E. Rosner,Tampere University,Finland,423,FlexTDOA: Robust and Scalable Time-Difference of Arrival Localization Using Ultra-Wideband Devices (2023),,,,,7.0,https://openalex.org/A5082568352,,YES
-Mikko Vastaranta,University of Eastern Finland,Finland,604,Ultra-Wideband-Based Method for Measuring Tree Positions With Decimeter-Level Accuracy Under a Forest Canopy (2025),,,,,6.0,https://openalex.org/A5047838080,,YES
-Uwe D. Hanebeck,Linköping University,Sweden,310,Continuous-Time Ultra-Wideband-Inertial Fusion (2023),,,,,8.0,https://openalex.org/A5055331421,,YES
-Naeem Khademi,University of Stavanger,Norway,851-900,Evaluation Study of Inertial Positioning in Road Tunnels for Cooperative ITS Applications (2023),,,,,5.0,https://openalex.org/A5113819740,,YES
-Johan Stien,Vrije Universiteit Brussel,Belgium,294,Machine learning-optimized terahertz ultra-wideband tunable metamaterial absorber (2025),,,,,8.0,https://openalex.org/A5117422059,,YES
-Yang Miao,University of Twente,Netherlands,203,A UAV-Aided Real-Time Channel Sounder for Highly Dynamic Nonstationary A2G Scenarios (2023),,,,,8.0,https://openalex.org/A5039982512,,YES
-Peter Brída,Warsaw University of Technology,Poland,487,Selection of Signal Sources Influence at Indoor Positioning System (2023),,,,,6.0,https://openalex.org/A5089496860,,YES
-Suramate Chalermwisutkul,Wrocław University of Science and Technology,Poland,851-900,Low-Cost Indoor Localization Using Dual-Chip RFID Tag (2024),,,,,5.0,https://openalex.org/A5060445574,,YES
-Andrea Carena,Politecnico di Torino,Italy,242,ML-Based Spectral Power Profiles Prediction in Presence of ISRS for Ultra-Wideband Transmission (2023),,,,,8.0,https://openalex.org/A5056219057,,YES
-Carlo Vallati,University of Pisa,Italy,343,Short-Range Localization via Bluetooth Using Machine Learning Techniques for Industrial Production Monitoring (2023),,,,,7.0,https://openalex.org/A5086067526,,YES
-Isaac Skog,Université Grenoble Alpes,France,321,MAINS: A Magnetic-Field-Aided Inertial Navigation System for Indoor Positioning (2024),,,,,7.0,https://openalex.org/A5057769293,,YES
-Yuchuan Du,Eindhoven University of Technology,Netherlands,140,Data-Driven Indoor Positioning Correction for Infrastructure-Enabled Autonomous Driving Systems: A Lifelong Framework (2023),,,,,8.0,https://openalex.org/A5004514343,,YES
-,,,,,,,,,,,,NO
-Tülin Atmaca,Institut Polytechnique de Paris (3years phd programs),France,41,XAI Empowered Dual Band Wi-Fi Based Indoor Localization via Ensemble Learning (2023),,,,,8.0,https://openalex.org/A5080399533,,YES
-Zijian Li,Hong Kong University of Science and Technology,Hong Kong,44,FedPos: A Federated Transfer Learning Framework for CSI-Based Wi-Fi Indoor Positioning (2023),,,,,9.0,https://openalex.org/A5038979005,,YES
-,The Chinese University of Hong Kong,Hong Kong,32,https://www.cuhk.edu.hk/english/admissions/admissions.html,,,,,9.0,,,YES
-Xiang‐Gen Xia,City University of Hong Kong,Hong Kong,63,An Adaptive IMU/UWB Fusion Method for NLOS Indoor Positioning and Navigation (2023),,,,,9.0,https://openalex.org/A5065367615,,YES
-Angela P. Schoellig,University of Toronto,Canada,29,UTIL: An ultra-wideband time-difference-of-arrival indoor localization dataset (2024),,,,,8.0,https://openalex.org/A5052147335,,YES
-Shuguang Cui,University of British Columbia,Canada,40,"A Survey on Indoor Visible Light Positioning Systems: Fundamentals, Applications, and Challenges (2024)",,,,,8.0,https://openalex.org/A5009164482,,YES
-Xuemin Shen,University of Waterloo,Canada,119,"A Survey of mmWave Radar-Based Sensing in Autonomous Vehicles, Smart Homes and Industry (2024)",,,,,7.0,https://openalex.org/A5100773343,,YES
-Jérôme Le Ny,McGill University,Canada,27,Calibration and Uncertainty Characterization for Ultra-Wideband Two-Way-Ranging Measurements (2023),,,,,8.0,https://openalex.org/A5012980200,,YES
-Andrew Chan,University of Alberta,Canada,94,Automated Detection of In-Home Activities with Ultra-Wideband Sensors (2024),,,,,7.0,https://openalex.org/A5043180508,,YES
-Zhengjun Yao,The University of Melbourne,Autralia,19,Multi‐Scale Dispersion Engineering on Biomass‐Derived Materials for Ultra‐Wideband and Wide‐Angle Microwave Absorption (2024),,,,,8.0,https://openalex.org/A5066063907,,YES
-Bing Yu,UNSW Sydney,Autralia,20,"Indoor Localization Methods for Smartphones with Multi-Source Sensors Fusion: Tasks, Challenges, Strategies, and Perspectives (2025)",,,,,8.0,https://openalex.org/A5078494765,,YES
-Harry Kai-Ho Chan,Monash University,Autralia,36,Contact Tracing Over Uncertain Indoor Positioning Data (2023),,,,,8.0,https://openalex.org/A5047655841,,YES
-Xiang‐Gen Xia,Harbin Institute of Technology,China,256,An Adaptive IMU/UWB Fusion Method for NLOS Indoor Positioning and Navigation (2023),,,,,7.0,https://openalex.org/A5065367615,,YES
-Kenji Suzuki,University of Tsukuba,Japan,350,Peer-to-Peer Ultra-Wideband Localization for Hands-Free Control of a Human-Guided Smart Stroller (2024),,,,,7.0,https://openalex.org/A5100618207,,YES
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-,,,,,,,,,,,,NO
-Junming Zhao,Arizona State University,,,A Novel Ultra‐Wideband Electromagnetic‐Wave‐Absorbing Metastructure Inspired by Bionic Gyroid Structures (2023),,,,,,https://openalex.org/A5024794935,,YES
-Naofal Al‐Dhahir,University of Texas at Dallas,,,OpenPose-Inspired Reduced-Complexity CSI-Based Wi-Fi Indoor Localization (2024),,,,,,https://openalex.org/A5081018704,,YES
-Wei Dong,Northeastern University,,,Asymmetry Stagger Array Structure Ultra-Wideband Vibration Harvester Integrating Magnetically Coupled Nonlinear Effects (2023),,,,,,https://openalex.org/A5110929783,,YES
-Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Based Federated Learning for Multiuser Indoor Positioning Performance Optimization (2024),,,,,,https://openalex.org/A5072241033,,YES
+Professor,University,Country,Ranking,Subject,Email?,Responed?,Fund,Dead line,Priority,Note,Email addresss,Checked?,Checked_General?,Discovered_Field,General_PI,General_Paper
+Davide Dardari,University of Bologna,Italy,,Wireless communication and localization,☑,N,P ~1700,,6.0,https://openalex.org/A5043546527,,YES,YES,FPGA & Edge AI,Pietro Manzoni,An evaluation methodology to determine the actual limitations of a TinyML-based solution (2023)
+Carlo Alberto Boano,Graz University of Technology,Austria,,"IoT, Wireless Sensor Networks",☑,Y!,??,,7.0,https://openalex.org/A5048811541,carloalberto.boano@gmail.com,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
+Ismail Guvenc,North Carolina State University,The US,,"5G, Localization",☐,,,,5.0,https://openalex.org/A5100624451,,YES,YES,FPGA & Edge AI,Xipeng Shen,Space-Efficient TREC for Enabling Deep Learning on Microcontrollers (2023)
+,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15 00:00:00,7.0,,,YES,YES,,,
+Klaus Witrisal, Graz University of Technology,Austria,,Wireless CommunicationsSignal ProcessingChannel ModelingRadio Localization and Sensing,☐,,3000,,6.0,https://openalex.org/A5048811541,,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
+Olga Saukh, Graz University of Technology,Austria,,embedded intelligencemachine learningdeep learningsensingedge AI,☐,,,,6.0,,,YES,YES,,,
+Rajesh Balan,Singapore Management University,Singapore,,"GPS, Software",☐,,,,6.0,,rajesh@smu.edu.sg,YES,YES,,,
+Niki Trigoni,University of Oxford,UK,,Sensor networksIndoor localisationCyber physical systems,☐,,,,8.0,,niki.trigoni@cs.ox.ac.uk,YES,YES,,,
+Juha Plosila,University of Turku,Finland,,"embedded systems, multiprocessor system-on-chip (SoC), heterogeneous systems, reconfigurable computing, digital circuits and systems.",☐,,,,5.0,https://openalex.org/A5060233962,,YES,YES,Biomedical & Acoustic Signals,Tero Koivisto,Generating Synthetic Mechanocardiograms for Machine Learning-Based Peak Detection (2024)
+Antti Honkela,University of Helsinki,Finland,,Data Science (Machine Learning & AI),☐,,,,9.0,,,YES,YES,,,
+Jukka Talvitie,University of Helsinki,Finland,,Toward Seamless Localization: Situational Awareness Using UWB Wearable Systems and Convolutional Neural Networks (2023),☐,,,,9.0,https://openalex.org/A5116007457,,YES,YES,FPGA & Edge AI,Guanghan Wu,When the Code Autopilot Breaks: Why Large Language Models Falter in Embedded Machine Learning (2025)
+Luca Benini,ETH Zürich and Bologna,Switzerland and Italy,,Self-Sustaining Ultrawideband Positioning System for Event-Driven Indoor Localization (2023),☐,,,,10.0,https://openalex.org/A5038717922,,YES,YES,FPGA & Edge AI,Francesco Conti,RedMule: A mixed-precision matrix–matrix operation engine for flexible and energy-efficient on-chip linear algebra and TinyML training acceleration (2023)
+Cheng‐Wei Qiu,National University of Singapore (NUS),Singapore,,Origami metamaterials for ultra-wideband and large-depth reflection modulation (2024),☐,,,,10.0,https://openalex.org/A5022006569,,YES,YES,FPGA & Edge AI,Shoshanna Saxe,Machine Learning-Augmented Optimization of Large Bilevel and Two-stage Stochastic Programs: Application to Cycling Network Design (2023)
+Solmaz S. Kia,"University of California, Irvine (UCI)",The Us,,Self-Localizing On-Demand Portable Wireless Beacons for Coverage Enhancement of RF Beacon-Based Indoor Localization Systems (2023),☐,,,,8.0,https://openalex.org/A5060229356,,YES,YES,FPGA & Edge AI,Deepu Jose,Test and Evaluation of Systems with Embedded Machine Learning Components (2023)
+,,,,,,,,,,,,NO,NO,,,
+Cheng‐Wei Qiu,National University of Singapore (NUS),Singapore,,Origami metamaterials for ultra-wideband and large-depth reflection modulation (2024),,,,,10.0,https://openalex.org/A5022006569,,YES,YES,FPGA & Edge AI,Shoshanna Saxe,Machine Learning-Augmented Optimization of Large Bilevel and Two-stage Stochastic Programs: Application to Cycling Network Design (2023)
+,"Nanyang Technological University, Singapore (NTU Singapore)",Singapore,,,,,,,10.0,,,YES,YES,,,
+Cheng‐Wei Qiu,Singapore University of Technology and Design (QS 519),Singapore,,Origami metamaterials for ultra-wideband and large-depth reflection modulation (2024),,,,,10.0,https://openalex.org/A5087192549,,YES,YES,FPGA & Edge AI,Tee Hui Teo,An Embedded Machine Learning Fault Detection System for Electric Fan Drive (2024)
+,The University of Auckland,New Zealand,,,,,,,7.0,,,YES,YES,,,
+Sarah Whitehead,University of Otago,New Zealand,,Consensus on a netball video analysis framework of descriptors and definitions by the netball video analysis consensus group (2023),,,,,6.0,https://openalex.org/A5016730248,,YES,YES,Vision & Autonomous Systems,Harsha De Silva,"Clinicopathological concordance of clinicians, Chat-GPT4 and ORAD for odontogenic keratocysts and tumours referred to a single New Zealand Centre- A 15-year retrospective study. (2024)"
+Xuan Song,The University of Tokyo,Japan,,Domain Adversarial Graph Convolutional Network Based on RSSI and Crowdsensing for Indoor Localization (2023),,,,,10.0,https://openalex.org/A5082835974,,YES,YES,FPGA & Edge AI,Tegawendé François Bissyandé,An empirical study of AI techniques in mobile applications (2024)
+Hiroshi Harada,Kyoto University,Japan,,3GPP-Compatible Channel Generation Framework for FR2-2 Indoor Short-Range Communication (2023),,,,,10.0,https://openalex.org/A5041954621,,YES,YES,FPGA & Edge AI,Akimasa Hirata,Roadmap towards personalized approaches and safety considerations in non-ionizing radiation: from dosimetry to therapeutic and diagnostic applications (2025)
+Yi‐Ping Hung,Tokyo Institute of Technology (Tokyo Tech),Japan,,VIUNet: Deep Visual–Inertial–UWB Fusion for Indoor UAV Localization (2023),,,,,10.0,https://openalex.org/A5089388923,,YES,YES,FPGA & Edge AI,Masato Motomura,Pianissimo: A Sub-mW Class DNN Accelerator With Progressively Adjustable Bit-Precision (2023)
+Moustafa Youssef,Osaka University,Japan,,Privacy-Preserving by Design: Indoor Positioning System Using Wi-Fi Passive TDOA (2023),,,,,10.0,https://openalex.org/A5054498473,,YES,YES,FPGA & Edge AI,Keisuke Morishima,Feedback control of automatic navigation for cyborg cockroach without external motion capture system (2024)
+Shinichiro Omachi,Tohoku University,Japan,,Collaborative Indoor Positioning by Localization Comparison at an Encounter Position (2023),,,,,9.0,https://openalex.org/A5121246706,,YES,YES,FPGA & Edge AI,Kazunori OHNO,"AI-IoT-Robotics Integration: Survey of Frameworks, Emerging Trends, and the Path Toward Connected Robotics (2026)"
+Nobuo Kawaguchi,Nagoya University,Japan,,A Survey of Ground Truth Measurement Systems for Indoor Positioning (2023),,,,,9.0,https://openalex.org/A5016969134,,YES,YES,FPGA & Edge AI,Ao Guo,Challenges and Emerging Issues for Generative AI and Hyper Intelligence (2024)
+Hiromichi Hashizume,Hokkaido University,Japan,,Smartphone Indoor Positioning using Inertial and Ambient Light Sensors (2023),,,,,9.0,https://openalex.org/A5089388923,,YES,YES,FPGA & Edge AI,Masato Motomura,Pianissimo: A Sub-mW Class DNN Accelerator With Progressively Adjustable Bit-Precision (2023)
+Ryo Kurazume,Kyushu University,Japan,,Indoor Position Estimation using NLoS Information by Wireless Distance Sensors (2023),,,,,9.0,https://openalex.org/A5052749873,,YES,YES,FPGA & Edge AI,Mohamed M. Kamra,Systematic Review on AI-Powered UAVs: The Role of Artificial Intelligence in UAV Evolution and Applications Expansion (2026)
+Siti Rohana Ahmad Ibrahim,Waseda University,Japan,,A Review of Indoor Positioning Systems for UAV Localization with Machine Learning Algorithms (2023),,,,,9.0,https://openalex.org/A5016969134,,YES,YES,FPGA & Edge AI,Ao Guo,Challenges and Emerging Issues for Generative AI and Hyper Intelligence (2024)
+Guan Gui,Keio University,Japan,,Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization With CSI Fingerprints (2024),,,,,9.0,https://openalex.org/A5041549339,,YES,YES,FPGA & Edge AI,Hiroki Matsutani,Addressing the Gap Between Training Data and Deployed Environment by On-Device Learning (2023)
+Donghwan Lee,Seoul National University,South Korea,,WayIL: Image-based Indoor Localization with Wayfinding Maps (2024),,,,,10.0,https://openalex.org/A5082399620,,YES,YES,FPGA & Edge AI,Yeunwoong Kyung,TinyML-Based Classification in an ECG Monitoring Embedded System (2023)
+Jiwon Seo,Yonsei University,South Korea,,Low-Cost GNSS Simulators With Wireless Clock Synchronization for Indoor Positioning (2023),,,,,10.0,https://openalex.org/A5033521909,,YES,YES,FPGA & Edge AI,Hee‐Woong Kim,Enhanced Anomaly Detection in Manufacturing Processes Through Hybrid Deep Learning Techniques (2023)
+Wonjae Shin,Korea University,South Korea,,"Toward Integrated Sensing and Communications for 6G: Key Enabling Technologies, Standardization, and Challenges (2024)",,,,,10.0,https://openalex.org/A5011213078,,YES,YES,FPGA & Edge AI,Ashok Kumar Das,A Contextual Aware Enhanced LoRaWAN Adaptive Data Rate for mobile IoT applications (2024)
+Kyung‐Tae Kim,Pohang University of Science And Technology (POSTECH),South Korea,,Multipath Signal Mitigation for Indoor Localization Based on MIMO FMCW Radar System (2023),,,,,10.0,https://openalex.org/A5088838086,,YES,YES,Vision & Autonomous Systems,Hyunbo Cho,Automated Footwear Surface Inspection System Based on the Deep Learning Object Detection (2025)
+Daehan Kwak,Sungkyunkwan University (SKKU),South Korea,,"A Systematic Review of Contemporary Indoor Positioning Systems: Taxonomy, Techniques, and Algorithms (2024)",,,,,10.0,https://openalex.org/A5063908850,,YES,YES,FPGA & Edge AI,Jong Hwan Ko,An Efficient Ventricular Arrhythmias Detection on Microcontrollers with Optimized 1D CNN (2024)
+Jae-il Jung,Hanyang University,South Korea,,Accurate Indoor Positioning for UWB-Based Personal Devices Using Deep Learning (2023),,,,,9.0,https://openalex.org/A5021420311,,YES,YES,Biomedical & Acoustic Signals,Sung Ho Cho,Machine Learning for Healthcare Radars: Recent Progresses in Human Vital Sign Measurement and Activity Recognition (2023)
+Gangil Byun,Ulsan National Institute of Science and Technology (UNIST),South Korea,,Ultra-Wideband Frequency-Invariant Beamforming Using a Generalized Nesting Array (2024),,,,,7.0,https://openalex.org/A5100658136,,YES,YES,FPGA & Edge AI,Seulki Lee,MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems (2023)
+Joongeup Kye,Kyung Hee University,South Korea,,Comparative Analysis of Integrated Filtering Methods Using UWB Localization in Indoor Environment (2024),,,,,7.0,https://openalex.org/A5082399620,,YES,YES,FPGA & Edge AI,Yeunwoong Kyung,TinyML-Based Classification in an ECG Monitoring Embedded System (2023)
+X. J. Zhu,Beijing Normal University,China,,Ultra-wideband polarimetry of the April 2021 profile change event in PSR J1713+0747 (2025),,,,,7.0,https://openalex.org/A5100657575,,YES,YES,FPGA & Edge AI,Shaobo Zhang,A Quality-Aware and Obfuscation-Based Data Collection Scheme for Cyber-Physical Metaverse Systems (2024)
+Xingjun Wang,Peking University,China,,Integrated photonics enabling ultra-wideband fibre–wireless communication (2026),,,,,10.0,https://openalex.org/A5062886480,,YES,YES,FPGA & Edge AI,Ru Huang,A Model-Specific End-to-End Design Methodology for Resource-Constrained TinyML Hardware (2023)
+Zheng Yang,Tsinghua University,China,,REFLoc: A Resilient Evolutionary Fusion Framework for Robust Indoor Localization (2024),,,,,10.0,https://openalex.org/A5005913897,,YES,YES,FPGA & Edge AI,Yonina C. Eldar,Physics-Embedded Machine Learning for Electromagnetic Data Imaging: Examining three types of data-driven imaging methods (2023)
+Xin Wang,Fudan University,China,,A Survey of Latest Wi-Fi Assisted Indoor Positioning on Different Principles (2023),,,,,10.0,https://openalex.org/A5034020559,,YES,YES,FPGA & Edge AI,Jian Min Xiong,Machine learning for mechanical design of composite materials and composite structures (2026)
+Yikai Su,Shanghai Jiao Tong University,China,,Ultra‐wideband integrated photonic devices on silicon platform: from visible to mid‐IR (2023),,,,,10.0,https://openalex.org/A5100777770,,YES,YES,FPGA & Edge AI,Hua Wei,CityFlowER: An Efficient and Realistic Traffic Simulator with Embedded Machine Learning Models (2024)
+Tong Cai,Zhejiang University,China,,Multi-characteristic Integrated Ultra-wideband Frequency Selective Rasorber (2024),,,,,10.0,https://openalex.org/A5069094261,,YES,YES,FPGA & Edge AI,Zhenhong Du,Satellite-Based Global Sea Surface Oxygen Mapping and Interpretation with Spatiotemporal Machine Learning (2023)
+Junming Zhao,Nanjing University,China,,A Novel Ultra‐Wideband Electromagnetic‐Wave‐Absorbing Metastructure Inspired by Bionic Gyroid Structures (2023),,,,,10.0,https://openalex.org/A5103045425,,YES,YES,FPGA & Edge AI,Lijia Pan,AI-Enabled Flexible Sensing Ecosystems for Parkinson’s Disease: Advancing Digital Biomarkers and Closed-Loop Interventions (2026)
+Yikai Su,Shanghai Jiao Tong University,China,,Ultra‐wideband integrated photonic devices on silicon platform: from visible to mid‐IR (2023),,,,,10.0,https://openalex.org/A5036767358,,YES,YES,Sensor Fusion & DAQ,Ting Han,A novel multi-graph-structure guided human lower-limb physiological load estimation method based on multi-inertial-sensors fusion during walking (2025)
+Yuanming Shi,Zhejiang University,China,,Energy-Efficient Optimal Mode Selection for Edge AI Inference via Integrated Sensing-Communication-Computation (2024),,,,,10.0,https://openalex.org/A5069094261,,YES,YES,FPGA & Edge AI,Zhenhong Du,Satellite-Based Global Sea Surface Oxygen Mapping and Interpretation with Spatiotemporal Machine Learning (2023)
+,Nanjing University,China,,,,,,,10.0,https://openalex.org/A5103045425,,YES,YES,FPGA & Edge AI,Lijia Pan,AI-Enabled Flexible Sensing Ecosystems for Parkinson’s Disease: Advancing Digital Biomarkers and Closed-Loop Interventions (2026)
+,University of Science and Technology of China,China,,,,,,,9.0,https://openalex.org/A5075307304,,YES,YES,FPGA & Edge AI,YongAn Huang,"A Flexible, Large-Scale Sensing Array with Low-Power In-Sensor Intelligence (2024)"
+,Tongji University,China,,,,,,,9.0,https://openalex.org/A5108044017,,YES,YES,FPGA & Edge AI,Zhihan Lv,TinyML-Driven Distributed Collaborative Computing for Autonomous Vehicle Groups in Open Scenes (2025)
+,Wuhan University,China,,,,,,,9.0,https://openalex.org/A5100673818,,YES,YES,FPGA & Edge AI,Liangpei Zhang,An optimized semi-empirical physical approach for satellite-based PM 2.5 retrieval: embedding machine learning to simulate complex physical parameters (2023)
+Lars Rönnegård,University of Copenhagen,Denmark,,Cow characteristics associated with the variation in number of contacts between dairy cows (2023),,,,,10.0,https://openalex.org/A5085747746,,YES,YES,,,
+Xiaolong Zhu,Technical University of Denmark,Denmark,,Application of metasurface in future displays (2025),,,,,10.0,https://openalex.org/A5072550494,,YES,YES,,,
+Markus Münzenberg,Aarhus University,Denmark,,Comparative analysis of THz signal emission from bilayer heterostructures: Wideband and high-frequency THz signal advantage of PtBi-based emitter (2024),,,,,10.0,https://openalex.org/A5089808777,,YES,YES,,,
+Susana Póvoas,University of Southern Denmark (SDU),Denmark,,Positional differences in match performance for key elite male team handball players at the EHF EURO 2022 (2026),,,,,8.0,https://openalex.org/A5080521951,,YES,YES,,,
+Yang Miao,Aalborg University,Denmark,,A UAV-Aided Real-Time Channel Sounder for Highly Dynamic Nonstationary A2G Scenarios (2023),,,,,8.0,https://openalex.org/A5039982512,,YES,YES,,,
+Ingve Simonsen,Norwegian University of Science And Technology,Norway,,Switchable Ultra-Wideband All-Optical Quantum Dot Reflective Semiconductor Optical Amplifier (2023),,,,,8.0,https://openalex.org/A5068445964,,YES,YES,FPGA & Edge AI,Haytham H. Elmousalami,AI-Powered Digital Twins and Internet of Things for Smart Cities and Sustainable Building Environment (2024)
+Henrik Baktoft,University of Bergen,Norway,,Positioning aquatic animals with acoustic transmitters (2023),,,,,8.0,https://openalex.org/A5087058987,,YES,YES,Vision & Autonomous Systems,Ricardo da Silva Torres,Identifying losers: Automatic identification of growth-stunted salmon in aquaculture using computer vision (2024)
+Nobby Stevens,KU Leuven,Belgium,,An Experimental Testbed for the Performance Evaluation of Optical Time Difference of Arrival Based Indoor Positioning (2024),,,,,10.0,https://openalex.org/A5000635267,,YES,YES,FPGA & Edge AI,Vijay Janapa Reddi,TinyML4D: Scaling Embedded Machine Learning Education in the Developing World (2024)
+Eli De Poorter,Ghent University,Belgium,,Ultra Wideband (UWB) Localization Using Active CIR-Based Fingerprinting (2023),,,,,9.0,https://openalex.org/A5047378679,,YES,YES,FPGA & Edge AI,Jeroen Famaey,Towards energy-aware tinyML on battery-less IoT devices (2023)
+Radu-Daniel Vatavu,Université catholique de Louvain (UCLouvain),Belgium,,RadarSense: Accurate Recognition of Mid-air Hand Gestures with Radar Sensing and Few Training Examples (2023),,,,,9.0,https://openalex.org/A5076386475,,YES,YES,FPGA & Edge AI,Tomás Norton,"How AI Improves Sustainable Chicken Farming: A Literature Review of Welfare, Economic, and Environmental Dimensions (2025)"
+,Universite libre de Bruxelles,Belgium,,,,,,,8.0,,,YES,YES,,,
+Orhan Dağdevıren,University of Antwerp,Belgium,,An Experimental Evaluation of Indoor Localization in Autonomous Mobile Robots (2025),,,,,10.0,https://openalex.org/A5035616620,,YES,YES,FPGA & Edge AI,Pieter Meyns,Gait Stride Length Estimation Using Embedded Machine Learning (2023)
+Johan Stien,Vrije Universiteit Brussel (VUB),Belgium,,Machine learning-optimized terahertz ultra-wideband tunable metamaterial absorber (2025),,,,,8.0,https://openalex.org/A5078788396,,YES,YES,FPGA & Edge AI,Bruno da Silva,Secure Tiny Machine Learning on Edge Devices: A Lightweight Dual Attestation Mechanism for Machine Learning (2025)
+Emily Arnold,Université de Liège,Belgium,,Snow stratigraphy observations from Operation IceBridge surveys in Alaska using S and C band airborne ultra-wideband FMCW (frequency-modulated continuous wave) radar (2023),,,,,7.0,https://openalex.org/A5084189456,,YES,YES,FPGA & Edge AI,Guillaume Drion,Improving the Performance and Learning Stability of Parallelizable RNNs Designed for Ultra-Low Power Applications (2026)
+Fredrik Tufvesson,Lund University,Sweden,,High-Precision Machine-Learning Based Indoor Localization with Massive MIMO System (2023),,,,,10.0,https://openalex.org/A5006928330,,YES,YES,FPGA & Edge AI,Johan Ruuskanen,Extending Microservice Model Validity using Universal Differential Equations (2023)
+Mikael Gidlund,KTH Royal Institute of Technology,Sweden,,Indoor Positioning in 5G-Advanced: Challenges and Solution Toward Centimeter-Level Accuracy with Carrier Phase Enhancements (2024),,,,,10.0,https://openalex.org/A5025956807,,YES,YES,FPGA & Edge AI,Jaya Prakash Champati,The Case for Hierarchical Deep Learning Inference at the Network Edge (2023)
+Isaac Skog,Uppsala University,Sweden,,MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning (2023),,,,,10.0,https://openalex.org/A5020214726,,YES,YES,FPGA & Edge AI,Stefanos Kaxiras,Efficient CNN Inference on Ultra-Low-Power MCUs via Saturation-Aware Convolution (2026)
+Henrik Baktoft,Stockholm University,Sweden,,Positioning aquatic animals with acoustic transmitters (2023),,,,,9.0,https://openalex.org/A5060398288,,YES,YES,FPGA & Edge AI,Sara Modarres Razavi,Guest Editorial: SPECIAL ISSUE ON TinyML for Edge-Driven 6G Networks (2026)
+Mikko Valkama,Chalmers University of Technology,Sweden,,Failure Tolerant Phase-Only Indoor Positioning via Deep Learning (2025),,,,,9.0,https://openalex.org/A5018279980,,YES,YES,FPGA & Edge AI,Olaf Landsiedel,LightEQ: On-Device Earthquake Detection with Embedded Machine Learning (2023)
+Daniel Arvidsson,University of Gothenburg,Sweden,,Fourteen days free-living evaluation of an open-source algorithm for counting steps in healthy adults with a large variation in physical activity level (2023),,,,,8.0,https://openalex.org/A5000688587,,YES,YES,FPGA & Edge AI,Daniel Strüber,Cross-platform edge deployment of machine learning models: a model-driven approach (2025)
+Daniel Arvidsson,University of Gothenburg,Sweden,,Fourteen days free-living evaluation of an open-source algorithm for counting steps in healthy adults with a large variation in physical activity level (2023),,,,,7.0,https://openalex.org/A5000688587,,YES,YES,FPGA & Edge AI,Daniel Strüber,Cross-platform edge deployment of machine learning models: a model-driven approach (2025)
+,Umea University,Sweden,,,,,,,6.0,,,YES,YES,,,
+Nuria González‐Prelcic,Aalto University,Finland,,"Multicarrier ISAC: Advances in waveform design, signal processing, and learning under nonidealities (2024)",,,,,9.0,https://openalex.org/A5087728544,,YES,YES,FPGA & Edge AI,Martin Andraud,Hardware-efficient tractable probabilistic inference for TinyML Neurosymbolic AI applications (2025)
+Jukka Talvitie,University of Helsinki,Finland,,Toward Seamless Localization: Situational Awareness Using UWB Wearable Systems and Convolutional Neural Networks (2023),,,,,9.0,https://openalex.org/A5116007457,,YES,YES,FPGA & Edge AI,Guanghan Wu,When the Code Autopilot Breaks: Why Large Language Models Falter in Embedded Machine Learning (2025)
+Markku Juntti,University of Oulu,Finland,,Performance Analysis and Power Allocation for Massive MIMO ISAC Systems (2025),,,,,7.0,https://openalex.org/A5034968363,,YES,YES,FPGA & Edge AI,Onel L. Alcaraz López,"TinyML: Tools, applications, challenges, and future research directions (2023)"
+Jorge Peña-Queralta,University of Turku,Finland,,Exploiting redundancy for UWB anomaly detection in infrastructure-free multi-robot relative localization (2023),,,,,7.0,https://openalex.org/A5075314597,,YES,YES,FPGA & Edge AI,Juha Plosila,JCCO: Jointly Optimizing the Computational and Communication Costs for Resource Allocation in Energy-Efficient Swarm Robotics (2026)
+Zhen Zhang,Lappeenranta-Lahti University of Technology LUT,Finland,,Research on 3D Localization Technology Based on Hybrid Signal Models and Adaptive Dynamic Weight Whale Optimization Algorithm (2025),,,,,6.0,https://openalex.org/A5113331842,,YES,YES,FPGA & Edge AI,Pedro H. J. Nardelli,Edge AI System for EV Trip Analytics: On-Device WLTP Class 3B Processing and Battery Temperature Prediction (2026)
+Angela P. Schoellig,Technical University of Munich,Germany,22,UTIL: An ultra-wideband time-difference-of-arrival indoor localization dataset (2024),,,,,10.0,https://openalex.org/A5000635267,,YES,YES,FPGA & Edge AI,Vijay Janapa Reddi,TinyML4D: Scaling Embedded Machine Learning Education in the Developing World (2024)
+Hélène Seroussi,Ludwig-Maximilians-Universität München,Germany,58,"Heterogeneous Basal Thermal Conditions Underpinning the Adélie‐George V Coast, East Antarctica (2024)",,,,,9.0,https://openalex.org/A5012747021,,YES,YES,FPGA & Edge AI,Christian Heumann,Knowledge-embedded machine learning for production optimization on logistical delivery grids (2025)
+Jari Nurmi,Universität Heidelberg,Germany,80,Adaptive approximate computing in edge AI and IoT applications: A review (2024),,,,,9.0,https://openalex.org/A5014251134,,YES,YES,FPGA & Edge AI,Holger Fröning,Beyond Noise: Understanding and Overcoming Temperature Effects in Analog DNN Inference (2026)
+,Freie Universitaet Berlin,Germany,88,,,,,,9.0,,,YES,YES,,,
+Uwe D. Hanebeck,"KIT, Karlsruhe Institute of Technology",Germany,98,Continuous-Time Ultra-Wideband-Inertial Fusion (2023),,,,,9.0,https://openalex.org/A5063508488,,YES,YES,FPGA & Edge AI,Jörg Henkel,Hardware–Software Co-design for Ultra-Resource-Constrained Embedded Machine Learning Inference: A Printed Electronics Use Case (2023)
+Elisabeth Clausen,RWTH Aachen University,Germany,105,Development and Evaluation of a UWB-Based Indoor Positioning System for Underground Mine Environments (2023),,,,,9.0,https://openalex.org/A5046956677,,YES,YES,FPGA & Edge AI,Wolfgang Ecker,Exploring Hardware-Efficient Architectures of Golomb–Rice Decoder for TinyML Applications (2025)
+Edna Hillmann,Humboldt-Universität zu Berlin,Germany,130,Pinpointing pigs: performance and challenges of an ultra-wideband real-time location system for tracking growing-finishing pigs under practical conditions (2024),,,,,8.0,,,YES,YES,FPGA & Edge AI,Gergana Vladova,Contesting Openness in AI. Reflections on the transformative value and participatory potential of open source AI (2025)
+Robert B. Kohlhaas,Technische Universität Berlin (TU Berlin),Germany,145,Ultra-Wideband PIN-PD THz Emitter with > 5.5 THz Bandwidth (2024),,,,,8.0,https://openalex.org/A5064915684,,YES,YES,FPGA & Edge AI,Felix Archibald Enge,Embedded machine learning as an enabler of lean construction (2026)
+Alexander Koelpin,Universität Hamburg,Germany,193,Heart Sound Detection Using an Ultra-Wideband FMCW Radar (2023),,,,,8.0,https://openalex.org/A5103184703,,YES,YES,FPGA & Edge AI,Stefan Wolff,The Multi-Stage Mixed Methods Framework: A new research design to combine hypothesis development and hypothesis testing and to embed machine learning and practitioner engagement in the social sciences (2024)
+,The Korea Advanced Institute of Science and Technology (KAIST),South Korea,,,,,,,,,,YES,YES,,,
+Peter B. Shull,Delft University of Technology,Netherlands,,Asynchronous Hyperbolic UWB Source-Localization and Self-Localization for Indoor Tracking and Navigation (2023),,,,,,https://openalex.org/A5081295372,,YES,YES,FPGA & Edge AI,Marco Antonio Zúñiga,SolarML: Optimizing Sensing and Inference for Solar-Powered TinyML Platforms (2025)
+Yuchuan Du,Eindhoven University of Technology,Netherlands,,Data-Driven Indoor Positioning Correction for Infrastructure-Enabled Autonomous Driving Systems: A Lifelong Framework (2023),,,,,,https://openalex.org/A5009986948,,YES,YES,FPGA & Edge AI,Alessandro Pozzebon,Sleep Posture Detection via Embedded Machine Learning on a Reduced Set of Pressure Sensors (2025)
+Yang Miao,University of Twente,Netherlands,,A UAV-Aided Real-Time Channel Sounder for Highly Dynamic Nonstationary A2G Scenarios (2023),,,,,,https://openalex.org/A5000417436,,YES,YES,FPGA & Edge AI,Jian-Jia Chen,Register Your Forests: Decision Tree Ensemble Optimization by Explicit CPU Register Allocation (2024)
+Luca Benini,ETH Zurich,Switzerland,,Self-Sustaining Ultrawideband Positioning System for Event-Driven Indoor Localization (2023),,,,,,https://openalex.org/A5043408422,,YES,YES,FPGA & Edge AI,Luca Benini,Work in Progress: Linear Transformers for TinyML (2024)
+Andreas Burg,EPFL,Switzerland,,Single-Anchor UWB Localization Using Channel Impulse Response Distributions (2023),,,,,,https://openalex.org/A5074236306,,YES,YES,FPGA & Edge AI,David Atienza,BiomedBench: A Benchmark Suite of TinyML Biomedical Applications for Low-Power Wearables (2024)
+Tülin Atmaca,Institut Polytechnique de Paris,France,,XAI Empowered Dual Band Wi-Fi Based Indoor Localization via Ensemble Learning (2023),,,,,,https://openalex.org/A5046851981,,YES,YES,FPGA & Edge AI,Enzo Tartaglione,Shannon Strikes Again! Entropy-based Pruning in Deep Neural Networks for Transfer Learning under Extreme Memory and Computation Budgets (2023)
+Isaac Skog,Grenoble INP,France,,MAINS: A Magnetic-Field-Aided Inertial Navigation System for Indoor Positioning (2024),,,,,,https://openalex.org/A5011273650,,YES,YES,FPGA & Edge AI,Pascal Xavier,"Tiny, Distributed, and Eco-Optimized: Proposal of Design Guidelines for Environmentally Friendly ML Devices (2024)"
+Xiang‐Gen Xia,Harbin Institute of Technology,China,,An Adaptive IMU/UWB Fusion Method for NLOS Indoor Positioning and Navigation (2023),,,,,,https://openalex.org/A5101671535,,YES,YES,FPGA & Edge AI,Dechun Li,A TinyML System for Early Screening of CHD on ESP32 (2026)
+Kenji Suzuki,University of Tsukuba,Japan,,Peer-to-Peer Ultra-Wideband Localization for Hands-Free Control of a Human-Guided Smart Stroller (2024),,,,,,https://openalex.org/A5005578675,,YES,YES,Vision & Autonomous Systems,Marcus Völp,Multi-version Machine Learning and Rejuvenation for Resilient Perception in Safety-critical Systems (2025)
+Nobby Stevens,IMEC / KU Leuven,Belgium,,An Experimental Testbed for the Performance Evaluation of Optical Time Difference of Arrival Based Indoor Positioning (2024),,,,,,https://openalex.org/A5000635267,,YES,YES,FPGA & Edge AI,Vijay Janapa Reddi,TinyML4D: Scaling Embedded Machine Learning Education in the Developing World (2024)
+,,,,,,,,,,,,NO,NO,,,
+Lower Universities which can be good,,,,,,,,,,,,NO,NO,,,
+Andreas Stöhr,University of Duisburg-Essen,Germany,801-850,Ultra-Wideband Multi-Octave Planar Interconnect for Multi-Band THz Communications (2023),,,,,5.0,https://openalex.org/A5059943616,,YES,YES,FPGA & Edge AI,Anton Grabmaier,Semi-Supervised Anomaly Detection in the TinyML Domain Through Multi-Target Few-Shot Domain Adaptation (2024)
+Ruediger Kays,Technische Universität Dortmund,Germany,673,Achieving Sub-meter Accuracy for 5G Localization at FR1 Bandwidth Limitations (2023),,,,,6.0,https://openalex.org/A5000417436,,YES,YES,FPGA & Edge AI,Jian-Jia Chen,Robust and Tiny Binary Neural Networks using Gradient-based Explainability Methods (2023)
+Monika Sester,Leibniz University Hannover,Germany,433,Integrated Multi-Stereo Camera System for Robust Indoor Localization with Temporal Fusion (2024),,,,,7.0,https://openalex.org/A5035792471,,YES,YES,FPGA & Edge AI,Soumyajyoti Maji,Continuous Freezing of Gait Detection With TinyML on Embedded Systems (2025)
+Daniel E. Rosner,Tampere University,Finland,423,FlexTDOA: Robust and Scalable Time-Difference of Arrival Localization Using Ultra-Wideband Devices (2023),,,,,7.0,https://openalex.org/A5127700274,,YES,YES,FPGA & Edge AI,Jere Piirainen,Objektintunnistuksen optimointi resurssirajoitteisissa mikrokontrollereissa: TinyML:n ja FOMO-algoritmin hyödyntäminen sulautetuissa sovelluksissa (2025)
+Mikko Vastaranta,University of Eastern Finland,Finland,604,Ultra-Wideband-Based Method for Measuring Tree Positions With Decimeter-Level Accuracy Under a Forest Canopy (2025),,,,,6.0,https://openalex.org/A5123574880,,YES,YES,FPGA & Edge AI,Salman Khalil,Potential of TinyML and Federated Reinforcement Learning-Based Trajectory Optimization in Space-Air-Ground Integrated Network (2026)
+Uwe D. Hanebeck,Linköping University,Sweden,310,Continuous-Time Ultra-Wideband-Inertial Fusion (2023),,,,,8.0,https://openalex.org/A5018537955,,YES,YES,FPGA & Edge AI,Eduardo de la Torre,Dynamically reconfigurable variable-precision sparse-dense matrix acceleration in Tensorflow Lite (2023)
+Naeem Khademi,University of Stavanger,Norway,851-900,Evaluation Study of Inertial Positioning in Road Tunnels for Cooperative ITS Applications (2023),,,,,5.0,https://openalex.org/A5045380393,,YES,YES,FPGA & Edge AI,Ferhat Karaca,Facilitating Circular Economy Strategies Using Digital Construction Tools: Framework Development (2023)
+Johan Stien,Vrije Universiteit Brussel,Belgium,294,Machine learning-optimized terahertz ultra-wideband tunable metamaterial absorber (2025),,,,,8.0,https://openalex.org/A5078788396,,YES,YES,FPGA & Edge AI,Bruno da Silva,Secure Tiny Machine Learning on Edge Devices: A Lightweight Dual Attestation Mechanism for Machine Learning (2025)
+Yang Miao,University of Twente,Netherlands,203,A UAV-Aided Real-Time Channel Sounder for Highly Dynamic Nonstationary A2G Scenarios (2023),,,,,8.0,https://openalex.org/A5000417436,,YES,YES,FPGA & Edge AI,Jian-Jia Chen,Register Your Forests: Decision Tree Ensemble Optimization by Explicit CPU Register Allocation (2024)
+Peter Brída,Warsaw University of Technology,Poland,487,Selection of Signal Sources Influence at Indoor Positioning System (2023),,,,,6.0,https://openalex.org/A5053781299,,YES,YES,FPGA & Edge AI,Marcin Paprzycki,Frugal Heart Rate Correction Method for Scalable Health and Safety Monitoring in Construction Sites (2023)
+Suramate Chalermwisutkul,Wrocław University of Science and Technology,Poland,851-900,Low-Cost Indoor Localization Using Dual-Chip RFID Tag (2024),,,,,5.0,https://openalex.org/A5027153286,,YES,YES,FPGA & Edge AI,Krzysztof M. Walkowiak,A Novel One-Versus-All Approach for Multiclass Classification in TinyML Systems (2024)
+Andrea Carena,Politecnico di Torino,Italy,242,ML-Based Spectral Power Profiles Prediction in Presence of ISRS for Ultra-Wideband Transmission (2023),,,,,8.0,https://openalex.org/A5012150553,,YES,YES,FPGA & Edge AI,Marian Verhelst,HTVM: Efficient Neural Network Deployment On Heterogeneous TinyML Platforms (2023)
+Carlo Vallati,University of Pisa,Italy,343,Short-Range Localization via Bluetooth Using Machine Learning Techniques for Industrial Production Monitoring (2023),,,,,7.0,https://openalex.org/A5102026679,,YES,YES,FPGA & Edge AI,Qinghe Zheng,"Advancements in TinyML: Applications, Limitations, and Impact on IoT Devices (2024)"
+Isaac Skog,Université Grenoble Alpes,France,321,MAINS: A Magnetic-Field-Aided Inertial Navigation System for Indoor Positioning (2024),,,,,7.0,https://openalex.org/A5011273650,,YES,YES,FPGA & Edge AI,Pascal Xavier,"Tiny, Distributed, and Eco-Optimized: Proposal of Design Guidelines for Environmentally Friendly ML Devices (2024)"
+Yuchuan Du,Eindhoven University of Technology,Netherlands,140,Data-Driven Indoor Positioning Correction for Infrastructure-Enabled Autonomous Driving Systems: A Lifelong Framework (2023),,,,,8.0,https://openalex.org/A5009986948,,YES,YES,FPGA & Edge AI,Alessandro Pozzebon,Sleep Posture Detection via Embedded Machine Learning on a Reduced Set of Pressure Sensors (2025)
+,,,,,,,,,,,,NO,NO,,,
+Tülin Atmaca,Institut Polytechnique de Paris (3years phd programs),France,41,XAI Empowered Dual Band Wi-Fi Based Indoor Localization via Ensemble Learning (2023),,,,,8.0,https://openalex.org/A5046851981,,YES,YES,FPGA & Edge AI,Enzo Tartaglione,Shannon Strikes Again! Entropy-based Pruning in Deep Neural Networks for Transfer Learning under Extreme Memory and Computation Budgets (2023)
+Zijian Li,Hong Kong University of Science and Technology,Hong Kong,44,FedPos: A Federated Transfer Learning Framework for CSI-Based Wi-Fi Indoor Positioning (2023),,,,,9.0,https://openalex.org/A5014819244,,YES,YES,FPGA & Edge AI,Yangdi Lyu,Microprocessor Design Space Exploration via Space Partitioning and Bayesian Optimization (2024)
+,The Chinese University of Hong Kong,Hong Kong,32,https://www.cuhk.edu.hk/english/admissions/admissions.html,,,,,9.0,,,YES,YES,,,
+Xiang‐Gen Xia,City University of Hong Kong,Hong Kong,63,An Adaptive IMU/UWB Fusion Method for NLOS Indoor Positioning and Navigation (2023),,,,,9.0,https://openalex.org/A5100419083,,YES,YES,FPGA & Edge AI,Zhenjiang Li,DTMM: Deploying TinyML Models on Extremely Weak IoT Devices with Pruning (2024)
+Angela P. Schoellig,University of Toronto,Canada,29,UTIL: An ultra-wideband time-difference-of-arrival indoor localization dataset (2024),,,,,8.0,https://openalex.org/A5022006569,,YES,YES,FPGA & Edge AI,Shoshanna Saxe,Machine Learning–Augmented Optimization of Large Bilevel and Two-Stage Stochastic Programs: Application to Cycling Network Design (2025)
+Shuguang Cui,University of British Columbia,Canada,40,"A Survey on Indoor Visible Light Positioning Systems: Fundamentals, Applications, and Challenges (2024)",,,,,8.0,https://openalex.org/A5013246362,,YES,YES,FPGA & Edge AI,Steven J. E. Wilton,DEBUG-HD: Debugging TinyML models on-device using Hyper-Dimensional computing (2024)
+Xuemin Shen,University of Waterloo,Canada,119,"A Survey of mmWave Radar-Based Sensing in Autonomous Vehicles, Smart Homes and Industry (2024)",,,,,7.0,https://openalex.org/A5080711681,,YES,YES,FPGA & Edge AI,Ghulam Muhammad,A multi-resolution fusion approach for human activity recognition from video data in tiny edge devices (2023)
+Jérôme Le Ny,McGill University,Canada,27,Calibration and Uncertainty Characterization for Ultra-Wideband Two-Way-Ranging Measurements (2023),,,,,8.0,https://openalex.org/A5034701871,,YES,YES,FPGA & Edge AI,Brett H. Meyer,Zero-Shot NAS for TinyML Semantic Segmentation via Weight Sharing (2026)
+Andrew Chan,University of Alberta,Canada,94,Automated Detection of In-Home Activities with Ultra-Wideband Sensors (2024),,,,,7.0,https://openalex.org/A5003799782,,YES,YES,FPGA & Edge AI,Witold Pedrycz,Guest Editorial of the Special section on Lightweight Large Model for Edge Computing in Consumer Devices (2025)
+Zhengjun Yao,The University of Melbourne,Autralia,19,Multi‐Scale Dispersion Engineering on Biomass‐Derived Materials for Ultra‐Wideband and Wide‐Angle Microwave Absorption (2024),,,,,8.0,https://openalex.org/A5044922102,,YES,YES,FPGA & Edge AI,Elaine Wong,TinyML-Empowered Human-to-Machine Applications over Future Access Networks (2026)
+Bing Yu,UNSW Sydney,Autralia,20,"Indoor Localization Methods for Smartphones with Multi-Source Sensors Fusion: Tasks, Challenges, Strategies, and Perspectives (2025)",,,,,8.0,https://openalex.org/A5080202547,,YES,YES,FPGA & Edge AI,Nadeem Ahmed,Intelligence at the Extreme Edge: A Survey on Reformable TinyML (2023)
+Harry Kai-Ho Chan,Monash University,Autralia,36,Contact Tracing Over Uncertain Indoor Positioning Data (2023),,,,,8.0,https://openalex.org/A5029767607,,YES,YES,FPGA & Edge AI,Maryam Shojaei Baghini,Embedded Machine Learning on Accelerometer Data for Exercise Classification (2023)
+Xiang‐Gen Xia,Harbin Institute of Technology,China,256,An Adaptive IMU/UWB Fusion Method for NLOS Indoor Positioning and Navigation (2023),,,,,7.0,https://openalex.org/A5101671535,,YES,YES,FPGA & Edge AI,Dechun Li,A TinyML System for Early Screening of CHD on ESP32 (2026)
+Kenji Suzuki,University of Tsukuba,Japan,350,Peer-to-Peer Ultra-Wideband Localization for Hands-Free Control of a Human-Guided Smart Stroller (2024),,,,,7.0,https://openalex.org/A5041549339,,YES,YES,FPGA & Edge AI,Hiroki Matsutani,InstantFT: A Field-Programmable Gate Array-Based Runtime Subsecond Fine-Tuning of Convolutional Neural Network Models (2026)
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+,,,,,,,,,,,,NO,NO,,,
+Junming Zhao,Arizona State University,,,A Novel Ultra‐Wideband Electromagnetic‐Wave‐Absorbing Metastructure Inspired by Bionic Gyroid Structures (2023),,,,,,https://openalex.org/A5074371899,,YES,YES,FPGA & Edge AI,Andreas Spanias,Real-time PV Fault Detection using Embedded Machine Learning (2024)
+Naofal Al‐Dhahir,University of Texas at Dallas,,,OpenPose-Inspired Reduced-Complexity CSI-Based Wi-Fi Indoor Localization (2024),,,,,,https://openalex.org/A5051431139,,YES,YES,FPGA & Edge AI,Tooraj Nikoubin,TinyML Enabled Real-Time Bearing Fault Classification in Motors Using Vibration Signals (2025)
+Wei Dong,Northeastern University,,,Asymmetry Stagger Array Structure Ultra-Wideband Vibration Harvester Integrating Magnetically Coupled Nonlinear Effects (2023),,,,,,https://openalex.org/A5143702357,,YES,YES,FPGA & Edge AI,Jiaming Hao,TinyML Model for Anomalous Gait Recognition in Real Clinical Scenarios: A Study on Generalization (2026)
+Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Based Federated Learning for Multiuser Indoor Positioning Performance Optimization (2024),,,,,,https://openalex.org/A5065410886,,YES,YES,FPGA & Edge AI,Ranga Raju Vatsavai,Efficient Multi-Domain Instance Segmentation with Modular Shared-Head Routing (2025)
+,University of Cambridge,United Kingdom,,,,,,,,https://www.cam.ac.uk,,NO,NO,,,
+,Imperial College London,United Kingdom,,,,,,,,https://www.imperial.ac.uk,,NO,NO,,,
+,University of Chinese Academy of Sciences,China,,,,,,,,https://www.ucas.ac.cn,,NO,NO,,,
+,The University of Osaka,Japan,,,,,,,,https://www.osaka-u.ac.jp,,NO,NO,,,
+,University of Manchester,United Kingdom,,,,,,,,https://www.manchester.ac.uk/,,NO,NO,,,
+,Sapienza University of Rome,Italy,,,,,,,,https://www.uniroma1.it,,NO,NO,,,
+,Huazhong University of Science and Technology,China,,,,,,,,http://english.hust.edu.cn/,,NO,NO,,,
+,Politecnico di Milano,Italy,,,,,,,,https://polimi.it,,NO,NO,,,
+,Sichuan University,China,,,,,,,,https://scu.edu.cn,,NO,NO,,,
+,Sun Yat-sen University,China,,,,,,,,https://www.sysu.edu.cn,,NO,NO,,,
+,Xi'an Jiaotong University,China,,,,,,,,https://www.xjtu.edu.cn,,NO,NO,,,
+,Central South University,China,,,,,,,,https://www.csu.edu.cn,,NO,NO,,,
+,Universidade Estadual de Campinas (UNICAMP),Brazil,,,,,,,,https://www.unicamp.br,,NO,NO,,,
+,Shandong University,China,,,,,,,,https://www.sdu.edu.cn,,NO,NO,,,
+,University of Bristol,United Kingdom,,,,,,,,https://www.bristol.ac.uk/,,NO,NO,,,
+,University of Science and Technology of China,China,,,,,,,,https://ustc.edu.cn,,NO,NO,,,
+,University of Glasgow,United Kingdom,,,,,,,,https://www.gla.ac.uk/,,NO,NO,,,
+,Nanyang Technological University,Singapore,,,,,,,,https://www.ntu.edu.sg,,NO,NO,,,
+,University of Calgary,Canada,,,,,,,,https://www.ucalgary.ca,,NO,NO,,,
+,University of Leeds,United Kingdom,,,,,,,,https://www.leeds.ac.uk,,NO,NO,,,
+,Southeast University,China,,,,,,,,https://www.seu.edu.cn,,NO,NO,,,
+,University of Bonn,Germany,,,,,,,,https://www.uni-bonn.de,,NO,NO,,,
+,Newcastle University,United Kingdom,,,,,,,,https://www.ncl.ac.uk,,NO,NO,,,
+,University of Nottingham,United Kingdom,,,,,,,,https://www.nottingham.ac.uk/,,NO,NO,,,
+,University of Sheffield,United Kingdom,,,,,,,,https://www.sheffield.ac.uk,,NO,NO,,,
+,Aix-Marseille Université,France,,,,,,,,https://www.univ-amu.fr/,,NO,NO,,,
+,University of Hong Kong,Hong Kong,,,,,,,,https://www.hku.hk,,NO,NO,,,
+,Karlsruhe Institute of Technology,Germany,,,,,,,,https://www.kit.edu,,NO,NO,,,
+,Chinese University of Hong Kong,Hong Kong,,,,,,,,https://www.cuhk.edu.hk/,,NO,NO,,,
+,University of Southampton,United Kingdom,,,,,,,,https://www.southampton.ac.uk/,,NO,NO,,,
+,National Taiwan University,Taiwan,,,,,,,,https://www.ntu.edu.tw/,,NO,NO,,,
+,Jilin University,China,,,,,,,,https://www.jlu.edu.cn/,,NO,NO,,,
+,University of Naples Federico II,Italy,,,,,,,,https://www.unina.it,,NO,NO,,,
+,Tianjin University,China,,,,,,,,https://www.tju.edu.cn/,,NO,NO,,,
+,University of Ottawa,Canada,,,,,,,,https://www.uottawa.ca,,NO,NO,,,
+,The University of Western Australia,Australia,,,,,,,,https://www.uwa.edu.au,,NO,NO,,,
+,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,,,,,,,,https://www.fau.de/,,NO,NO,,,
+,Université Paris-Saclay,France,,,,,,,,https://www.universite-paris-saclay.fr/,,NO,NO,,,
+,University of Stuttgart,Germany,,,,,,,,https://www.uni-stuttgart.de/,,NO,NO,,,
+,Beihang University,China,,,,,,,,https://buaa.edu.cn,,NO,NO,,,
+,Universidade do Porto,Portugal,,,,,,,,https://www.up.pt,,NO,NO,,,
+,Université Pierre-et-Marie-Curie,France,,,,,,,,,,NO,NO,,,
+,Hong Kong Polytechnic University,Hong Kong,,,,,,,,https://www.polyu.edu.hk/,,NO,NO,,,
+,Université de Lorraine,France,,,,,,,,https://www.univ-lorraine.fr,,NO,NO,,,
+,University of Florence,Italy,,,,,,,,https://www.unifi.it,,NO,NO,,,
+,South China University of Technology,China,,,,,,,,http://www.scut.edu.cn,,NO,NO,,,
+,University of Electronic Science and Technology of China,China,,,,,,,,https://www.uestc.edu.cn,,NO,NO,,,
+,King Saud University,Saudi Arabia,,,,,,,,https://ksu.edu.sa,,NO,NO,,,
+,University of Münster,Germany,,,,,,,,https://www.uni-muenster.de/,,NO,NO,,,
+,École Polytechnique Fédérale de Lausanne,Switzerland,,,,,,,,https://www.epfl.ch/,,NO,NO,,,
