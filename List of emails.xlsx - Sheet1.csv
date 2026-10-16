@@ -153,11 +153,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,University of Chinese Academy of Sciences,China,,,,,,,,https://openalex.org/A5100376373,,YES,YES,Localization,Zhi Wang,UWBLoc: NLoS Mitigation for Practical UWB Localization (2023)
 ,The University of Osaka,Japan,,,,,,,,,,YES,YES,Localization,Moustafa Youssef,MambaLoc: Lightweight Indoor Localization For Unmanned Vehicles Using Cross-Modal Knowledge Distillation (2025)
 ,University of Manchester,United Kingdom,,,,,,,,https://openalex.org/A5068254239,,YES,YES,Localization,Mehmet Kemal Özdemir,Cyber-WISE: A Cyber-Physical Deep Wireless Indoor Positioning System and Digital Twin Approach (2023)
-,Sapienza University of Rome,Italy,,,,,,,,https://www.uniroma1.it,,NO,NO,,,
-,Huazhong University of Science and Technology,China,,,,,,,,http://english.hust.edu.cn/,,NO,NO,,,
-,Politecnico di Milano,Italy,,,,,,,,https://polimi.it,,NO,NO,,,
-,Sichuan University,China,,,,,,,,https://scu.edu.cn,,NO,NO,,,
-,Sun Yat-sen University,China,,,,,,,,https://www.sysu.edu.cn,,NO,NO,,,
+,Sapienza University of Rome,Italy,,,,,,,,https://openalex.org/A5062526081,,YES,YES,Localization,Maria‐Gabriella Di Benedetto,Efficient CNN-Based Classification of NLOS/LOS Conditions Using CIR Features in Ultra-Wideband Networks (2025)
+,Huazhong University of Science and Technology,China,,,,,,,,https://openalex.org/A5100678341,,YES,YES,Localization,Tao Jiang,AutoLoc: Toward Ubiquitous AoA-Based Indoor Localization Using Commodity WiFi (2023)
+,Politecnico di Milano,Italy,,,,,,,,https://openalex.org/A5118128066,,YES,YES,Localization,Arimondo Scrivano,Advances in Indoor Positioning Systems: Integrating IoT and Machine Learning for Enhanced Accuracy (2025)
+,Sichuan University,China,,,,,,,,https://openalex.org/A5038871254,,YES,YES,Localization,Yanbing Yang,Leveraging Hybrid RF-VLP for High-Accuracy Indoor Localization with Sparse Anchors (2025)
+,Sun Yat-sen University,China,,,,,,,,https://openalex.org/A5100728341,,YES,YES,Localization,Y. B. Zhao,Ranging Error model for IEEE 802.15.4 based UWB IoT devices (2023)
 ,Xi'an Jiaotong University,China,,,,,,,,https://www.xjtu.edu.cn,,NO,NO,,,
 ,Central South University,China,,,,,,,,https://www.csu.edu.cn,,NO,NO,,,
 ,Universidade Estadual de Campinas (UNICAMP),Brazil,,,,,,,,https://www.unicamp.br,,NO,NO,,,
