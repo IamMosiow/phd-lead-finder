@@ -12,7 +12,7 @@ CSV_FILE = "List of emails.xlsx - Sheet1.csv"
 FILE_TO_LOAD = XLSX_FILE if os.path.exists(XLSX_FILE) else CSV_FILE
 
 # Number of new engineering universities to append per run
-BATCH_SIZE = 10
+BATCH_SIZE = 50
 
 # Excluded ISO-2 Country Codes: USA + All African Countries (+ Iran)
 AFRICAN_COUNTRIES = {
