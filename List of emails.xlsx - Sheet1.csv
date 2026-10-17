@@ -158,11 +158,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,Politecnico di Milano,Italy,,,,,,,,https://openalex.org/A5118128066,,YES,YES,Localization,Arimondo Scrivano,Advances in Indoor Positioning Systems: Integrating IoT and Machine Learning for Enhanced Accuracy (2025)
 ,Sichuan University,China,,,,,,,,https://openalex.org/A5038871254,,YES,YES,Localization,Yanbing Yang,Leveraging Hybrid RF-VLP for High-Accuracy Indoor Localization with Sparse Anchors (2025)
 ,Sun Yat-sen University,China,,,,,,,,https://openalex.org/A5100728341,,YES,YES,Localization,Y. B. Zhao,Ranging Error model for IEEE 802.15.4 based UWB IoT devices (2023)
-,Xi'an Jiaotong University,China,,,,,,,,https://www.xjtu.edu.cn,,NO,NO,,,
-,Central South University,China,,,,,,,,https://www.csu.edu.cn,,NO,NO,,,
-,Universidade Estadual de Campinas (UNICAMP),Brazil,,,,,,,,https://www.unicamp.br,,NO,NO,,,
-,Shandong University,China,,,,,,,,https://www.sdu.edu.cn,,NO,NO,,,
-,University of Bristol,United Kingdom,,,,,,,,https://www.bristol.ac.uk/,,NO,NO,,,
+,Xi'an Jiaotong University,China,,,,,,,,https://openalex.org/A5102551596,,YES,YES,Localization,Qingkai Wang,Spatio-temporal feature fusion model based on Attention mechanism for RFID indoor positioning (2024)
+,Central South University,China,,,,,,,,https://openalex.org/A5000926804,,YES,YES,Localization,Chizhou Zhang,1D-CLANet: A Novel Network for NLoS Classification in UWB Indoor Positioning System (2024)
+,Universidade Estadual de Campinas (UNICAMP),Brazil,,,,,,,,https://openalex.org/A5059696610,,YES,YES,Localization,André Leon Sampaio Gradvohl,Studies on indoor positioning algorithms using BLE Beacons (2023)
+,Shandong University,China,,,,,,,,https://openalex.org/A5110210243,,YES,YES,Localization,Jianping Xing,Application of variational Bayesian-based cubature information filter for UWB/INS tightly coupled positioning system (2025)
+,University of Bristol,United Kingdom,,,,,,,,https://openalex.org/A5026442244,,YES,YES,Localization,Eli De Poorter,Transfer Learning for UWB Error Correction and (N)LOS Classification in Multiple Environments (2023)
 ,University of Science and Technology of China,China,,,,,,,,https://ustc.edu.cn,,NO,NO,,,
 ,University of Glasgow,United Kingdom,,,,,,,,https://www.gla.ac.uk/,,NO,NO,,,
 ,Nanyang Technological University,Singapore,,,,,,,,https://www.ntu.edu.sg,,NO,NO,,,
