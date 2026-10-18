@@ -2,7 +2,7 @@ Professor,University,Country,Ranking,Subject,Email?,Responed?,Fund,Dead line,Pri
 Davide Dardari,University of Bologna,Italy,,Wireless communication and localization,☑,N,P ~1700,,6.0,https://openalex.org/A5043546527,,YES,YES,FPGA & Edge AI,Pietro Manzoni,An evaluation methodology to determine the actual limitations of a TinyML-based solution (2023)
 Carlo Alberto Boano,Graz University of Technology,Austria,,"IoT, Wireless Sensor Networks",☑,Y!,??,,7.0,https://openalex.org/A5048811541,carloalberto.boano@gmail.com,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Ismail Guvenc,North Carolina State University,The US,,"5G, Localization",☐,,,,5.0,https://openalex.org/A5100624451,,YES,YES,FPGA & Edge AI,Xipeng Shen,Space-Efficient TREC for Enabling Deep Learning on Microcontrollers (2023)
-,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15 00:00:00,7.0,,,YES,YES,,,
+,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15,7.0,,,YES,YES,,,
 Klaus Witrisal, Graz University of Technology,Austria,,Wireless CommunicationsSignal ProcessingChannel ModelingRadio Localization and Sensing,☐,,3000,,6.0,https://openalex.org/A5048811541,,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Olga Saukh, Graz University of Technology,Austria,,embedded intelligencemachine learningdeep learningsensingedge AI,☐,,,,6.0,,,YES,YES,,,
 Rajesh Balan,Singapore Management University,Singapore,,"GPS, Software",☐,,,,6.0,,rajesh@smu.edu.sg,YES,YES,,,
@@ -163,11 +163,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,Universidade Estadual de Campinas (UNICAMP),Brazil,,,,,,,,https://openalex.org/A5059696610,,YES,YES,Localization,André Leon Sampaio Gradvohl,Studies on indoor positioning algorithms using BLE Beacons (2023)
 ,Shandong University,China,,,,,,,,https://openalex.org/A5110210243,,YES,YES,Localization,Jianping Xing,Application of variational Bayesian-based cubature information filter for UWB/INS tightly coupled positioning system (2025)
 ,University of Bristol,United Kingdom,,,,,,,,https://openalex.org/A5026442244,,YES,YES,Localization,Eli De Poorter,Transfer Learning for UWB Error Correction and (N)LOS Classification in Multiple Environments (2023)
-,University of Science and Technology of China,China,,,,,,,,https://ustc.edu.cn,,NO,NO,,,
-,University of Glasgow,United Kingdom,,,,,,,,https://www.gla.ac.uk/,,NO,NO,,,
-,Nanyang Technological University,Singapore,,,,,,,,https://www.ntu.edu.sg,,NO,NO,,,
-,University of Calgary,Canada,,,,,,,,https://www.ucalgary.ca,,NO,NO,,,
-,University of Leeds,United Kingdom,,,,,,,,https://www.leeds.ac.uk,,NO,NO,,,
+,University of Science and Technology of China,China,,,,,,,,https://openalex.org/A5100678341,,YES,YES,Localization,Tao Jiang,AutoLoc: Toward Ubiquitous AoA-Based Indoor Localization Using Commodity WiFi (2023)
+,University of Glasgow,United Kingdom,,,,,,,,https://openalex.org/A5059152392,,YES,YES,Localization,Konstantinos N. Plataniotis,Enhancing LOS/NLOS Classification in UWB with Robust Feature Engineering (2025)
+,Nanyang Technological University,Singapore,,,,,,,,https://openalex.org/A5023142347,,YES,YES,Localization,U-Xuan Tan,Localization through mitigating and compensating UWB NLOS ranging error with neural network (2025)
+,University of Calgary,Canada,,,,,,,,https://openalex.org/A5008779348,,YES,YES,Localization,Behrouz H. Far,Transformer-Based UWB Positioning: Learning to Correct Ranging Errors for Autonomous Agents (2025)
+,University of Leeds,United Kingdom,,,,,,,,,,YES,YES,Localization,Yuanyou Zuo,The Application of Bluetooth Technology in Indoor Navigation (2024)
 ,Southeast University,China,,,,,,,,https://www.seu.edu.cn,,NO,NO,,,
 ,University of Bonn,Germany,,,,,,,,https://www.uni-bonn.de,,NO,NO,,,
 ,Newcastle University,United Kingdom,,,,,,,,https://www.ncl.ac.uk,,NO,NO,,,
