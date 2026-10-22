@@ -183,11 +183,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,University of Naples Federico II,Italy,,,,,,,,https://openalex.org/A5026144426,,YES,YES,Localization,Aldo Zollo,A Proposal for a VR Serious Game for Training of Earthquake Early Warning Systems for Wearable Devices in the Context of Critical Environments (2025)
 ,Tianjin University,China,,,,,,,,https://openalex.org/A5084469256,,YES,YES,Localization,Yuxiang Han,A New Method for Enhancing the Robustness of Close-Range Targets Imaging Based on UWB (2025)
 ,University of Ottawa,Canada,,,,,,,,https://openalex.org/A5071725359,,YES,YES,Localization,Yishan Su,Attack-Resilient Secure Localization for Underwater Acoustic Networks via Frequency-Diverse DRSS (2026)
-,The University of Western Australia,Australia,,,,,,,,https://www.uwa.edu.au,,NO,NO,,,
-,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,,,,,,,,https://www.fau.de/,,NO,NO,,,
-,Université Paris-Saclay,France,,,,,,,,https://www.universite-paris-saclay.fr/,,NO,NO,,,
-,University of Stuttgart,Germany,,,,,,,,https://www.uni-stuttgart.de/,,NO,NO,,,
-,Beihang University,China,,,,,,,,https://buaa.edu.cn,,NO,NO,,,
+,The University of Western Australia,Australia,,,,,,,,,,YES,YES,Localization,"Wang, Jiarui",Parkes observations for project P1375 semester 2026APRS_12 (2026)
+,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,,,,,,,,https://openalex.org/A5023277657,,YES,YES,Localization,Christopher Mutschler,Non-Line-of-Sight Detection for Radio Localization using Deep State Space Models (2024)
+,Université Paris-Saclay,France,,,,,,,,https://openalex.org/A5060020877,,YES,YES,Localization,Chau Yuen,Fingerprinting Database Development Methods for Reconfigurable Intelligent Surface Assisted Indoor Positioning System (2024)
+,University of Stuttgart,Germany,,,,,,,,https://openalex.org/A5123631481,,YES,YES,Localization,Bin Yang,Investigation of ArUco Marker Placement for Planar Indoor Localization (2025)
+,Beihang University,China,,,,,,,,https://openalex.org/A5024150556,,YES,YES,Localization,Dongkai Yang,Fuzzy Comprehensive Evaluation based NLOS Identification for UWB Indoor Positioning (2024)
 ,Universidade do Porto,Portugal,,,,,,,,https://www.up.pt,,NO,NO,,,
 ,Université Pierre-et-Marie-Curie,France,,,,,,,,,,NO,NO,,,
 ,Hong Kong Polytechnic University,Hong Kong,,,,,,,,https://www.polyu.edu.hk/,,NO,NO,,,
