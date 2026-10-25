@@ -2,7 +2,7 @@ Professor,University,Country,Ranking,Subject,Email?,Responed?,Fund,Dead line,Pri
 Davide Dardari,University of Bologna,Italy,,Wireless communication and localization,☑,N,P ~1700,,6.0,https://openalex.org/A5043546527,,YES,YES,FPGA & Edge AI,Pietro Manzoni,An evaluation methodology to determine the actual limitations of a TinyML-based solution (2023)
 Carlo Alberto Boano,Graz University of Technology,Austria,,"IoT, Wireless Sensor Networks",☑,Y!,??,,7.0,https://openalex.org/A5048811541,carloalberto.boano@gmail.com,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Ismail Guvenc,North Carolina State University,The US,,"5G, Localization",☐,,,,5.0,https://openalex.org/A5100624451,,YES,YES,FPGA & Edge AI,Xipeng Shen,Space-Efficient TREC for Enabling Deep Learning on Microcontrollers (2023)
-,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15 00:00:00,7.0,,,YES,YES,,,
+,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15,7.0,,,YES,YES,,,
 Klaus Witrisal, Graz University of Technology,Austria,,Wireless CommunicationsSignal ProcessingChannel ModelingRadio Localization and Sensing,☐,,3000,,6.0,https://openalex.org/A5048811541,,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Olga Saukh, Graz University of Technology,Austria,,embedded intelligencemachine learningdeep learningsensingedge AI,☐,,,,6.0,,,YES,YES,,,
 Rajesh Balan,Singapore Management University,Singapore,,"GPS, Software",☐,,,,6.0,,rajesh@smu.edu.sg,YES,YES,,,
@@ -198,11 +198,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,King Saud University,Saudi Arabia,,,,,,,,https://openalex.org/A5070109697,,YES,YES,Localization,Essam A. Al‐Ammar,A Novel Self-Calibrated UWB-Based Indoor Localization Systems for Context-Aware Applications (2024)
 ,University of Münster,Germany,,,,,,,,https://openalex.org/A5072493587,,YES,YES,Localization,Martin Tomko,A Visibility‐Based Multitree of a Space Subdivision for Indoor Localization (2024)
 ,École Polytechnique Fédérale de Lausanne,Switzerland,,,,,,,,https://openalex.org/A5059133771,,YES,YES,Localization,Andreas Peter Burg,Single-Anchor UWB Localization Using Channel Impulse Response Distributions (2023)
-,Huazhong University of Science and Technology,China,,,,,,,,http://english.hust.edu.cn/,,NO,NO,,,
-,University of Science and Technology of China,China,,,,,,,,https://ustc.edu.cn,,NO,NO,,,
-,University of Electronic Science and Technology of China,China,,,,,,,,https://www.uestc.edu.cn,,NO,NO,,,
-,Queen Mary University of London,United Kingdom,,,,,,,,https://www.qmul.ac.uk/,,NO,NO,,,
-,Technische Universität Dresden,Germany,,,,,,,,https://tu-dresden.de,,NO,NO,,,
+,Huazhong University of Science and Technology,China,,,,,,,,https://openalex.org/A5102780663,,YES,YES,FPGA & Edge AI,Zhe Jiang,MERE: Hardware-Software Co-Design for Masking Cache Miss Latency in Embedded Processors (2025)
+,University of Science and Technology of China,China,,,,,,,,https://openalex.org/A5100678341,,YES,YES,Localization,Tao Jiang,AutoLoc: Toward Ubiquitous AoA-Based Indoor Localization Using Commodity WiFi (2023)
+,University of Electronic Science and Technology of China,China,,,,,,,,https://openalex.org/A5101989539,,YES,YES,Localization,Gang Feng,An Adapted Mean Teacher Model for Semi-supervised Indoor Positioning using Channel Impulse Response (2023)
+,Queen Mary University of London,United Kingdom,,,,,,,,,,YES,YES,Localization,Arumugam Nallanathan,Multi-waveguide indoor positioning for PASS (2026)
+,Technische Universität Dresden,Germany,,,,,,,,https://openalex.org/A5118360762,,YES,YES,Localization,Muhammad Ammad,From Least Squares to Deep Learning: Benchmarking Indoor Positioning on the HYMN Multi-Technology Dataset (2026)
 ,Beijing Institute of Technology,China,,,,,,,,https://bit.edu.cn,,NO,NO,,,
 ,Northwestern Polytechnical University,China,,,,,,,,https://www.nwpu.edu.cn,,NO,NO,,,
 ,UCLouvain,Belgium,,,,,,,,https://uclouvain.be,,NO,NO,,,
