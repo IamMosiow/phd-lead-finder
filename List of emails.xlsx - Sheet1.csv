@@ -203,11 +203,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,University of Electronic Science and Technology of China,China,,,,,,,,https://openalex.org/A5101989539,,YES,YES,Localization,Gang Feng,An Adapted Mean Teacher Model for Semi-supervised Indoor Positioning using Channel Impulse Response (2023)
 ,Queen Mary University of London,United Kingdom,,,,,,,,,,YES,YES,Localization,Arumugam Nallanathan,Multi-waveguide indoor positioning for PASS (2026)
 ,Technische Universität Dresden,Germany,,,,,,,,https://openalex.org/A5118360762,,YES,YES,Localization,Muhammad Ammad,From Least Squares to Deep Learning: Benchmarking Indoor Positioning on the HYMN Multi-Technology Dataset (2026)
-,Beijing Institute of Technology,China,,,,,,,,https://bit.edu.cn,,NO,NO,,,
-,Northwestern Polytechnical University,China,,,,,,,,https://www.nwpu.edu.cn,,NO,NO,,,
-,UCLouvain,Belgium,,,,,,,,https://uclouvain.be,,NO,NO,,,
-,University of Auckland,New Zealand,,,,,,,,https://www.auckland.ac.nz/en.html,,NO,NO,,,
-,Chongqing University,China,,,,,,,,https://www.cqu.edu.cn,,NO,NO,,,
+,Beijing Institute of Technology,China,,,,,,,,https://openalex.org/A5064231378,,YES,YES,Localization,Yuanqing Xia,Indoor Positioning Systems Based on a Modified Matrix-Weighted Fusion Estimator With Multipath and NLOS Mitigation (2024)
+,Northwestern Polytechnical University,China,,,,,,,,https://openalex.org/A5013368501,,YES,YES,Localization,Rugui Yao,Research on Key Technologies of Indoor High-Precision Positioning Based on UWB (2024)
+,UCLouvain,Belgium,,,,,,,,https://openalex.org/A5040643249,,YES,YES,Localization,Isabelle Huynen,Sub-terahertz absorption shielding performances of polyurethane - Carbon nanotubes composite foams (2025)
+,University of Auckland,New Zealand,,,,,,,,https://openalex.org/A5077911956,,YES,YES,Localization,Zhishu Zhang,Augmented reality and indoor positioning based mobile production monitoring system to support workers with human-in-the-loop (2023)
+,Chongqing University,China,,,,,,,,https://openalex.org/A5009166877,,YES,YES,Localization,Jiangshuai Huang,Tightly Coupled UWB/VIO Indoor Localization via Robust Ranging and Anisotropic Fusion (2026)
 ,Dalian University of Technology,China,,,,,,,,https://www.dlut.edu.cn,,NO,NO,,,
 ,Zhengzhou University,China,,,,,,,,https://www.zzu.edu.cn,,NO,NO,,,
 ,Ruhr University Bochum,Germany,,,,,,,,https://www.ruhr-uni-bochum.de,,NO,NO,,,
