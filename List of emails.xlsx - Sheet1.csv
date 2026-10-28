@@ -213,11 +213,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,Ruhr University Bochum,Germany,,,,,,,,https://openalex.org/A5071644998,,YES,YES,Localization,Thomas Kaiser,Millimeter Wave Indoor SAR Sensing Assisted With Chipless Tags-Based Self-Localization System: Experimental Evaluation (2023)
 ,Friedrich Schiller University Jena,Germany,,,,,,,,https://openalex.org/A5012837694,,YES,YES,Localization,M. R. C. Mahdy,Sierpinski-fractal inspired ultra-broadband UV-NIR meta absorber: Notable impact on the self-stabilization of light-sail or solar-sail (2024)
 ,Hiroshima University,Japan,,,,,,,,https://openalex.org/A5091359587,,YES,YES,Localization,Игорь Андреевич Гончаренко,Indoor Positioning Using Smartphone Sensors: A LIDAR and IMU-Based Approach (2025)
-,University of Belgrade,Serbia,,,,,,,,http://www.bg.ac.rs/en/,,NO,NO,,,
-,Lyon 1 Université,France,,,,,,,,https://www.univ-lyon1.fr,,NO,NO,,,
-,Universidade Federal de Santa Catarina,Brazil,,,,,,,,http://en.ufsc.br/,,NO,NO,,,
-,Xiamen University,China,,,,,,,,https://www.xmu.edu.cn,,NO,NO,,,
-,Technion – Israel Institute of Technology,Israel,,,,,,,,http://www.technion.ac.il/,,NO,NO,,,
+,University of Belgrade,Serbia,,,,,,,,https://openalex.org/A5103103788,,YES,YES,Localization,Milan Bjelica,Distance Metric Robustness in RSSI Fingerprinting Under Sparse Access Point Conditions (2025)
+,Lyon 1 Université,France,,,,,,,,https://openalex.org/A5035953975,,YES,YES,Localization,Abdesslam Redjaline,Indoor positioning systems provide insight into emergency department systems enabling proposal of designs to improve workflow (2025)
+,Universidade Federal de Santa Catarina,Brazil,,,,,,,,https://openalex.org/A5067391848,,YES,YES,Localization,Richard Demo Souza,AoA and RSSI-Based BLE Indoor Positioning System With Kalman Filter and Data Fusion (2025)
+,Xiamen University,China,,,,,,,,https://openalex.org/A5101948255,,YES,YES,Localization,Jianping Zeng,"An Indoor Localization Algorithm Using Improved ESKF to Fuse Data from UWB, IMU, and Barometer (2025)"
+,Technion – Israel Institute of Technology,Israel,,,,,,,,https://openalex.org/A5068386123,,YES,YES,Localization,Manish L. Bhaiyya,"Advancing indoor positioning systems: innovations, challenges, and applications in mobile robotics (2025)"
 ,Queen's University,Canada,,,,,,,,https://www.queensu.ca/,,NO,NO,,,
 ,University of Zagreb,Croatia,,,,,,,,http://www.unizg.hr/,,NO,NO,,,
 ,University of Manitoba,Canada,,,,,,,,https://umanitoba.ca,,NO,NO,,,
