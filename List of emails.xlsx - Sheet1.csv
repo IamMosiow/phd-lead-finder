@@ -218,11 +218,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,Universidade Federal de Santa Catarina,Brazil,,,,,,,,https://openalex.org/A5067391848,,YES,YES,Localization,Richard Demo Souza,AoA and RSSI-Based BLE Indoor Positioning System With Kalman Filter and Data Fusion (2025)
 ,Xiamen University,China,,,,,,,,https://openalex.org/A5101948255,,YES,YES,Localization,Jianping Zeng,"An Indoor Localization Algorithm Using Improved ESKF to Fuse Data from UWB, IMU, and Barometer (2025)"
 ,Technion – Israel Institute of Technology,Israel,,,,,,,,https://openalex.org/A5068386123,,YES,YES,Localization,Manish L. Bhaiyya,"Advancing indoor positioning systems: innovations, challenges, and applications in mobile robotics (2025)"
-,Queen's University,Canada,,,,,,,,https://www.queensu.ca/,,NO,NO,,,
-,University of Zagreb,Croatia,,,,,,,,http://www.unizg.hr/,,NO,NO,,,
-,University of Manitoba,Canada,,,,,,,,https://umanitoba.ca,,NO,NO,,,
-,Korea Advanced Institute of Science and Technology,South Korea,,,,,,,,https://www.kaist.ac.kr,,NO,NO,,,
-,China University of Geosciences,China,,,,,,,,https://www.cug.edu.cn/,,NO,NO,,,
+,Queen's University,Canada,,,,,,,,https://openalex.org/A5013334648,,YES,YES,Localization,Loay Sabry Ismail,Obstacle-Aware Human Localization via Channel Impulse Response (2026)
+,University of Zagreb,Croatia,,,,,,,,https://openalex.org/A5088884299,,YES,YES,Localization,Niko Jelušić,Ultra-wideband Localization with Time-based Measurement Techniques (2023)
+,University of Manitoba,Canada,,,,,,,,https://openalex.org/A5059955804,,YES,YES,Localization,Αλεξάνδρα Παπαϊωάννου,The reliability and validity of a non-wearable indoor positioning system to assess mobility in older adults: A cross-sectional study (2025)
+,Korea Advanced Institute of Science and Technology,South Korea,,,,,,,,https://openalex.org/A5017736224,,YES,YES,Localization,Osvaldo Simeone,Reliable Wireless Indoor Localization via Cross-Validated Prediction-Powered Calibration (2026)
+,China University of Geosciences,China,,,,,,,,,,YES,YES,Localization,Zhe Jian,WaveletLoc: A Lightweight Deep Learning Model for Indoor Positioning Based on Wavelet Transform (2025)
 ,TU Wien,Austria,,,,,,,,https://www.tuwien.at,,NO,NO,,,
 ,Universidad de Sevilla,Spain,,,,,,,,https://www.us.es/,,NO,NO,,,
 ,Queen's University Belfast,United Kingdom,,,,,,,,https://www.qub.ac.uk,,NO,NO,,,
