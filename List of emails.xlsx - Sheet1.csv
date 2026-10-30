@@ -223,11 +223,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,University of Manitoba,Canada,,,,,,,,https://openalex.org/A5059955804,,YES,YES,Localization,Αλεξάνδρα Παπαϊωάννου,The reliability and validity of a non-wearable indoor positioning system to assess mobility in older adults: A cross-sectional study (2025)
 ,Korea Advanced Institute of Science and Technology,South Korea,,,,,,,,https://openalex.org/A5017736224,,YES,YES,Localization,Osvaldo Simeone,Reliable Wireless Indoor Localization via Cross-Validated Prediction-Powered Calibration (2026)
 ,China University of Geosciences,China,,,,,,,,,,YES,YES,Localization,Zhe Jian,WaveletLoc: A Lightweight Deep Learning Model for Indoor Positioning Based on Wavelet Transform (2025)
-,TU Wien,Austria,,,,,,,,https://www.tuwien.at,,NO,NO,,,
-,Universidad de Sevilla,Spain,,,,,,,,https://www.us.es/,,NO,NO,,,
-,Queen's University Belfast,United Kingdom,,,,,,,,https://www.qub.ac.uk,,NO,NO,,,
-,Nankai University,China,,,,,,,,https://nankai.edu.cn,,NO,NO,,,
-,Soochow University,China,,,,,,,,https://www.suda.edu.cn,,NO,NO,,,
+,TU Wien,Austria,,,,,,,,https://openalex.org/A5089919338,,YES,YES,Localization,Wolfgang Kästner,Authenticated UWB-Based Positioning of Passive Drones (2023)
+,Universidad de Sevilla,Spain,,,,,,,,https://openalex.org/A5035808386,,YES,YES,Localization,Javier Medina-Quero,Discovering Social Interactions Between Caregivers and Frail Individuals Using Indoor Localization (2024)
+,Queen's University Belfast,United Kingdom,,,,,,,,https://openalex.org/A5053763715,,YES,YES,Localization,Okan Yurduseven,Adversarial Learning-Based Radio Map Reconstruction for Fingerprinting Localization (2026)
+,Nankai University,China,,,,,,,,https://openalex.org/A5101939770,,YES,YES,Localization,Hong Wu,Fingerprint Fusion Location Method Based on Wireless Signal Distribution Characteristic (2023)
+,Soochow University,China,,,,,,,,https://openalex.org/A5052184480,,YES,YES,Localization,Weiwei Zhao,Laser Vision for Low-Coupling Indoor Positioning (2023)
 ,Aristotle University of Thessaloniki,Greece,,,,,,,,https://www.auth.gr,,NO,NO,,,
 ,Dalhousie University,Canada,,,,,,,,https://www.dal.ca,,NO,NO,,,
 ,University of Malaya,Malaysia,,,,,,,,https://www.um.edu.my/,,NO,NO,,,
