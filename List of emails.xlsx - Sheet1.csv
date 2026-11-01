@@ -2,7 +2,7 @@ Professor,University,Country,Ranking,Subject,Email?,Responed?,Fund,Dead line,Pri
 Davide Dardari,University of Bologna,Italy,,Wireless communication and localization,☑,N,P ~1700,,6.0,https://openalex.org/A5043546527,,YES,YES,FPGA & Edge AI,Pietro Manzoni,An evaluation methodology to determine the actual limitations of a TinyML-based solution (2023)
 Carlo Alberto Boano,Graz University of Technology,Austria,,"IoT, Wireless Sensor Networks",☑,Y!,??,,7.0,https://openalex.org/A5048811541,carloalberto.boano@gmail.com,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Ismail Guvenc,North Carolina State University,The US,,"5G, Localization",☐,,,,5.0,https://openalex.org/A5100624451,,YES,YES,FPGA & Edge AI,Xipeng Shen,Space-Efficient TREC for Enabling Deep Learning on Microcontrollers (2023)
-,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15 00:00:00,7.0,,,YES,YES,,,
+,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15,7.0,,,YES,YES,,,
 Klaus Witrisal, Graz University of Technology,Austria,,Wireless CommunicationsSignal ProcessingChannel ModelingRadio Localization and Sensing,☐,,3000,,6.0,https://openalex.org/A5048811541,,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Olga Saukh, Graz University of Technology,Austria,,embedded intelligencemachine learningdeep learningsensingedge AI,☐,,,,6.0,,,YES,YES,,,
 Rajesh Balan,Singapore Management University,Singapore,,"GPS, Software",☐,,,,6.0,,rajesh@smu.edu.sg,YES,YES,,,
@@ -233,11 +233,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,University of Malaya,Malaysia,,,,,,,,https://openalex.org/A5090331621,,YES,YES,Localization,Jeevan Kanesan,Location Accuracy Optimization in Bluetooth Low Energy (BLE) 5.1-Based Indoor Positioning System (IPS)—A Machine Learning Approach (2023)
 ,Université Paris Diderot,France,,,,,,,,https://openalex.org/A5001451316,,YES,YES,Localization,Patrick Mounaix,La perception numérique - Projet ciblé COMPTERA: COMPosants électroniques pour l’imagerie TERAhertz (2023)
 ,Universidade Federal de Pernambuco,Brazil,,,,,,,,https://openalex.org/A5029604814,,YES,YES,Localization,Ulysses R. C. Vitor,A Multiband Yagi-Uda Patch Antenna with Different Orders of Koch Fractal (2025)
-,University of York,United Kingdom,,,,,,,,https://www.york.ac.uk,,NO,NO,,,
-,Kobe University,Japan,,,,,,,,http://www.kobe-u.ac.jp/en/alumni/index.html,,NO,NO,,,
-,Medical University of Vienna,Austria,,,,,,,,https://www.meduniwien.ac.at,,NO,NO,,,
-,Université de Toulouse,France,,,,,,,,https://www.univ-tlse3.fr,,NO,NO,,,
-,Shanghai University,China,,,,,,,,https://www.shu.edu.cn,,NO,NO,,,
+,University of York,United Kingdom,,,,,,,,https://openalex.org/A5100690451,,YES,YES,Localization,Bin Feng,Semi-Supervised Algorithm SoftMatch for UWB Channel State Identification Based on Continuous Wavelet Transform and Gramian Angular Field (2025)
+,Kobe University,Japan,,,,,,,,https://openalex.org/A5016408307,,YES,YES,Localization,Chikara Ohta,Indoor localization using router-to-router RSSI and transfer learning for dynamic environments (2025)
+,Medical University of Vienna,Austria,,,,,,,,https://openalex.org/A5053563726,,YES,YES,Localization,Ursula Margarethe Schmidt-Erfurth,ADVANCES IN PHOTORECEPTOR AND RETINAL PIGMENT EPITHELIUM QUANTIFICATIONS IN INTERMEDIATE AGE-RELATED MACULAR DEGENERATION (2024)
+,Université de Toulouse,France,,,,,,,,https://openalex.org/A5051007923,,YES,YES,Localization,Laurence Redon,Using LLMs to Generate Position Descriptions in Natural Language from Ultra-Wide Band Rangings Data (2025)
+,Shanghai University,China,,,,,,,,https://openalex.org/A5100329153,,YES,YES,Localization,Wu Chen,Single UWB Base Station-Assisted Indoor Positioning for Smartphones (2026)
 ,University of the Basque Country,Spain,,,,,,,,https://www.ehu.eus,,NO,NO,,,
 ,University of Ljubljana,Slovenia,,,,,,,,https://www.uni-lj.si/,,NO,NO,,,
 ,King Abdulaziz University,Saudi Arabia,,,,,,,,https://www.kau.edu.sa/,,NO,NO,,,
