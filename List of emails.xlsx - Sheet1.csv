@@ -253,11 +253,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,University of Electronic Science and Technology of China,China,,,,,,,,https://openalex.org/A5101989539,,YES,YES,Localization,Gang Feng,An Adapted Mean Teacher Model for Semi-supervised Indoor Positioning using Channel Impulse Response (2023)
 ,Korea Advanced Institute of Science and Technology,South Korea,,,,,,,,https://openalex.org/A5017736224,,YES,YES,Localization,Osvaldo Simeone,Reliable Wireless Indoor Localization via Cross-Validated Prediction-Powered Calibration (2026)
 ,University of Science and Technology Beijing,China,,,,,,,,https://openalex.org/A5100678341,,YES,YES,Localization,Tao Jiang,AutoLoc: Toward Ubiquitous AoA-Based Indoor Localization Using Commodity WiFi (2023)
-,Ben-Gurion University of the Negev,Israel,,,,,,,,https://www.bgu.ac.il,,NO,NO,,,
-,University of Pavia,Italy,,,,,,,,https://portale.unipv.it/it,,NO,NO,,,
-,Hunan University,China,,,,,,,,https://www.hnu.edu.cn,,NO,NO,,,
-,Griffith University,Australia,,,,,,,,https://www.griffith.edu.au,,NO,NO,,,
-,Curtin University,Australia,,,,,,,,https://www.curtin.edu.au,,NO,NO,,,
+,Ben-Gurion University of the Negev,Israel,,,,,,,,https://openalex.org/A5005913897,,YES,YES,Wireless Sensing,Yonina C. Eldar,Integrated Sensing and Communications With Reconfigurable Intelligent Surfaces: From signal modeling to processing (2023)
+,University of Pavia,Italy,,,,,,,,https://openalex.org/A5083785899,,YES,YES,Vision & Autonomous Systems,Elena Lucchi,AI-Enhanced Detection of Thermal Anomalies in Urban Roofs via Drone-Assisted Infrared Thermography (UAV-IRT) (2026)
+,Hunan University,China,,,,,,,,,,YES,YES,Localization,Yu Dong,TDOA-MCM: A TDOA-based Multi-path Communication Mechanism for UWB Indoor Positioning (2025)
+,Griffith University,Australia,,,,,,,,https://openalex.org/A5125352320,,YES,YES,Localization,Jialin Wang,A Distributed Zonotopic Set-Membership Filtering for RSSI-Based Indoor Localization (2026)
+,Curtin University,Australia,,,,,,,,https://openalex.org/A5068550413,,YES,YES,Localization,Kit Yan Chan,Wi‐Fi fingerprint‐based indoor location: Multiple fingerprints and multiple classifiers with two‐layer fusion weights (2024)
 ,Technische Universität Darmstadt,Germany,,,,,,,,https://www.tu-darmstadt.de,,NO,NO,,,
 ,University of Saskatchewan,Canada,,,,,,,,https://www.usask.ca/,,NO,NO,,,
 ,Hong Kong University of Science and Technology,Hong Kong,,,,,,,,https://hkust.edu.hk,,NO,NO,,,
