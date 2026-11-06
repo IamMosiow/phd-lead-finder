@@ -258,11 +258,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,Hunan University,China,,,,,,,,,,YES,YES,Localization,Yu Dong,TDOA-MCM: A TDOA-based Multi-path Communication Mechanism for UWB Indoor Positioning (2025)
 ,Griffith University,Australia,,,,,,,,https://openalex.org/A5125352320,,YES,YES,Localization,Jialin Wang,A Distributed Zonotopic Set-Membership Filtering for RSSI-Based Indoor Localization (2026)
 ,Curtin University,Australia,,,,,,,,https://openalex.org/A5068550413,,YES,YES,Localization,Kit Yan Chan,Wi‐Fi fingerprint‐based indoor location: Multiple fingerprints and multiple classifiers with two‐layer fusion weights (2024)
-,Technische Universität Darmstadt,Germany,,,,,,,,https://www.tu-darmstadt.de,,NO,NO,,,
-,University of Saskatchewan,Canada,,,,,,,,https://www.usask.ca/,,NO,NO,,,
-,Hong Kong University of Science and Technology,Hong Kong,,,,,,,,https://hkust.edu.hk,,NO,NO,,,
-,Southern Medical University,China,,,,,,,,https://www.smu.edu.cn,,NO,NO,,,
-,Universiti Sains Malaysia,Malaysia,,,,,,,,https://www.usm.my,,NO,NO,,,
+,Technische Universität Darmstadt,Germany,,,,,,,,https://openalex.org/A5042405070,,YES,YES,Localization,Matthias Hollick,Dataset of UWB ranging measurements with smartphones (2023)
+,University of Saskatchewan,Canada,,,,,,,,https://openalex.org/A5040041401,,YES,YES,Localization,Arthur Peng,"An enhanced group matching method with transformed fingerprints, similarity filtering, and adaptive selection for indoor localization (2026)"
+,Hong Kong University of Science and Technology,Hong Kong,,,,,,,,https://openalex.org/A5079052203,,YES,YES,Localization,Khaled B. Letaief,NM-LUD: A NLOS Mitigation Method with Low-cost UWB Devices for Indoor Positioning (2023)
+,Southern Medical University,China,,,,,,,,https://openalex.org/A5004177643,,YES,YES,Localization,Xinguo Zhang,"Achieving Ultra-Wideband NIR-II Emission in Cr3+-Doped Li(Sc,In)(Si,Ge)O4 Phosphors Based on Host Composition Engineering (2023)"
+,Universiti Sains Malaysia,Malaysia,,,,,,,,https://openalex.org/A5039331012,,YES,YES,Localization,Nur Syazreen Ahmad,A comprehensive survey of CIR-based UWB NLOS identification and ranging error mitigation for indoor localization (2026)
 ,Nanjing University of Aeronautics and Astronautics,China,,,,,,,,https://www.nuaa.edu.cn,,NO,NO,,,
 ,University of Technology Sydney,Australia,,,,,,,,https://www.uts.edu.au,,NO,NO,,,
 ,National University of Malaysia,Malaysia,,,,,,,,https://www.ukm.my,,NO,NO,,,
