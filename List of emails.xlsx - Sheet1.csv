@@ -263,11 +263,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,Hong Kong University of Science and Technology,Hong Kong,,,,,,,,https://openalex.org/A5079052203,,YES,YES,Localization,Khaled B. Letaief,NM-LUD: A NLOS Mitigation Method with Low-cost UWB Devices for Indoor Positioning (2023)
 ,Southern Medical University,China,,,,,,,,https://openalex.org/A5004177643,,YES,YES,Localization,Xinguo Zhang,"Achieving Ultra-Wideband NIR-II Emission in Cr3+-Doped Li(Sc,In)(Si,Ge)O4 Phosphors Based on Host Composition Engineering (2023)"
 ,Universiti Sains Malaysia,Malaysia,,,,,,,,https://openalex.org/A5039331012,,YES,YES,Localization,Nur Syazreen Ahmad,A comprehensive survey of CIR-based UWB NLOS identification and ranging error mitigation for indoor localization (2026)
-,Nanjing University of Aeronautics and Astronautics,China,,,,,,,,https://www.nuaa.edu.cn,,NO,NO,,,
-,University of Technology Sydney,Australia,,,,,,,,https://www.uts.edu.au,,NO,NO,,,
-,National University of Malaysia,Malaysia,,,,,,,,https://www.ukm.my,,NO,NO,,,
-,Deakin University,Australia,,,,,,,,https://www.deakin.edu.au,,NO,NO,,,
-,National Yang Ming Chiao Tung University,Taiwan,,,,,,,,https://www.nycu.edu.tw/,,NO,NO,,,
+,Nanjing University of Aeronautics and Astronautics,China,,,,,,,,https://openalex.org/A5033042071,,YES,YES,Localization,Juha M. Hyyppa,An Up-View Visual-Based Indoor Positioning Method via Deep Learning (2024)
+,University of Technology Sydney,Australia,,,,,,,,https://openalex.org/A5045172155,,YES,YES,Localization,Xiaoying Kong,A Dynamic UKF-Based UWB/Wheel Odometry Tightly Coupled Approach for Indoor Positioning (2024)
+,National University of Malaysia,Malaysia,,,,,,,,https://openalex.org/A5069188336,,YES,YES,Localization,Sallehuddin Mohamed Haris,Indoor Positioning System Based on UWB Rapid Integration with Unity Cross Platform Development Engine through IoT (2023)
+,Deakin University,Australia,,,,,,,,https://openalex.org/A5005228053,,YES,YES,Localization,Shui Yu,"Quantum-Enabled Indoor Positioning: A Survey on Sensing, Computing, and Learning Approaches (2026)"
+,National Yang Ming Chiao Tung University,Taiwan,,,,,,,,https://openalex.org/A5035925200,,YES,YES,Localization,Ren‐Hung Hwang,Deep Learning-based Localization and Outlier Removal Integration Model for Indoor Surveillance (2023)
 ,China Agricultural University,China,,,,,,,,https://en.cau.edu.cn/,,NO,NO,,,
 ,Wuhan University of Technology,China,,,,,,,,https://www.whut.edu.cn,,NO,NO,,,
 ,Universität Ulm,Germany,,,,,,,,https://www.uni-ulm.de,,NO,NO,,,
