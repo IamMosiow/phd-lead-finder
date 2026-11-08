@@ -2,7 +2,7 @@ Professor,University,Country,Ranking,Subject,Email?,Responed?,Fund,Dead line,Pri
 Davide Dardari,University of Bologna,Italy,,Wireless communication and localization,☑,N,P ~1700,,6.0,https://openalex.org/A5043546527,,YES,YES,FPGA & Edge AI,Pietro Manzoni,An evaluation methodology to determine the actual limitations of a TinyML-based solution (2023)
 Carlo Alberto Boano,Graz University of Technology,Austria,,"IoT, Wireless Sensor Networks",☑,Y!,??,,7.0,https://openalex.org/A5048811541,carloalberto.boano@gmail.com,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Ismail Guvenc,North Carolina State University,The US,,"5G, Localization",☐,,,,5.0,https://openalex.org/A5100624451,,YES,YES,FPGA & Edge AI,Xipeng Shen,Space-Efficient TREC for Enabling Deep Learning on Microcontrollers (2023)
-,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15 00:00:00,7.0,,,YES,YES,,,
+,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15,7.0,,,YES,YES,,,
 Klaus Witrisal, Graz University of Technology,Austria,,Wireless CommunicationsSignal ProcessingChannel ModelingRadio Localization and Sensing,☐,,3000,,6.0,https://openalex.org/A5048811541,,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Olga Saukh, Graz University of Technology,Austria,,embedded intelligencemachine learningdeep learningsensingedge AI,☐,,,,6.0,,,YES,YES,,,
 Rajesh Balan,Singapore Management University,Singapore,,"GPS, Software",☐,,,,6.0,,rajesh@smu.edu.sg,YES,YES,,,
@@ -268,11 +268,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,National University of Malaysia,Malaysia,,,,,,,,https://openalex.org/A5069188336,,YES,YES,Localization,Sallehuddin Mohamed Haris,Indoor Positioning System Based on UWB Rapid Integration with Unity Cross Platform Development Engine through IoT (2023)
 ,Deakin University,Australia,,,,,,,,https://openalex.org/A5005228053,,YES,YES,Localization,Shui Yu,"Quantum-Enabled Indoor Positioning: A Survey on Sensing, Computing, and Learning Approaches (2026)"
 ,National Yang Ming Chiao Tung University,Taiwan,,,,,,,,https://openalex.org/A5035925200,,YES,YES,Localization,Ren‐Hung Hwang,Deep Learning-based Localization and Outlier Removal Integration Model for Indoor Surveillance (2023)
-,China Agricultural University,China,,,,,,,,https://en.cau.edu.cn/,,NO,NO,,,
-,Wuhan University of Technology,China,,,,,,,,https://www.whut.edu.cn,,NO,NO,,,
-,Universität Ulm,Germany,,,,,,,,https://www.uni-ulm.de,,NO,NO,,,
-,Medizinische Hochschule Hannover,Germany,,,,,,,,https://www.mhh.de,,NO,NO,,,
-,Universitat Politècnica de Catalunya,Spain,,,,,,,,https://www.upc.edu,,NO,NO,,,
+,China Agricultural University,China,,,,,,,,https://openalex.org/A5100725719,,YES,YES,Localization,Yantao Jia,Sequence Cleaning of Wi-Fi Round-Trip Time Measurement for Indoor Positioning Using SegRNN (2025)
+,Wuhan University of Technology,China,,,,,,,,https://openalex.org/A5100333957,,YES,YES,Localization,Wenfeng Li,Ultra-wideband Non-line-of-sight Recognition Method Based on MTF-CNN (2024)
+,Universität Ulm,Germany,,,,,,,,https://openalex.org/A5048233311,,YES,YES,Localization,Christian Waldschmidt,Terabit-per-Second Real-Time Chirp Synthesizer: An Ultra-Wideband Multi-Channel DDS Approach for RFSoC Radar Platforms (2026)
+,Medizinische Hochschule Hannover,Germany,,,,,,,,https://openalex.org/A5020402349,,YES,YES,Localization,Thomas Martin Deserno,Terminology for Automatic Alerts in the Early Rescue Chain (2025)
+,Universitat Politècnica de Catalunya,Spain,,,,,,,,https://openalex.org/A5087494885,,YES,YES,Localization,Mengqi Wang,The application of gated recurrent unit algorithm with fused attention mechanism in UWB indoor localization (2024)
 ,Queensland University of Technology,Australia,,,,,,,,https://www.qut.edu.au/,,NO,NO,,,
 ,Indian Institute of Science Bangalore,India,,,,,,,,https://www.iisc.ac.in/,,NO,NO,,,
 ,Nantes Université,France,,,,,,,,https://www.univ-nantes.fr/,,NO,NO,,,
