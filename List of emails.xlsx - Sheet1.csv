@@ -328,11 +328,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,Concordia University,Canada,,,,,,,,https://openalex.org/A5013967994,,YES,YES,Wireless Sensing,M.N.S. Swamy,Wireless Positioning and Location Awareness (2026)
 ,Carleton University,Canada,,,,,,,,https://openalex.org/A5017839977,,YES,YES,Localization,Ioannis Lambadaris,Hybrid Indoor Positioning Using 5G Carrier Phase Measurements (2025)
 ,Universidade de Santiago de Compostela,Spain,,,,,,,,https://openalex.org/A5073592854,,YES,YES,Vision & Autonomous Systems,Bernhard Höfle,Deep learning with simulated laser scanning data for 3D point cloud classification (2024)
-,Southwest University,China,,,,,,,,https://swu.edu.cn,,NO,NO,,,
-,Universidade Federal de Santa Maria,Brazil,,,,,,,,https://www.ufsm.br/,,NO,NO,,,
-,Jiangnan University,China,,,,,,,,https://www.jiangnan.edu.cn,,NO,NO,,,
-,North China Electric Power University,China,,,,,,,,https://www.ncepu.edu.cn,,NO,NO,,,
-,Hohai University,China,,,,,,,,https://www.hhu.edu.cn,,NO,NO,,,
+,Southwest University,China,,,,,,,,https://openalex.org/A5043039834,,YES,YES,Localization,Yawei Shi,An Improved Indoor Positioning Method by Fusing Ultra-Wideband and Millimeter Wave Radar Technologies (2024)
+,Universidade Federal de Santa Maria,Brazil,,,,,,,,https://openalex.org/A5067221759,,YES,YES,Localization,Diego G. Lamar,A Case Study on the Integration of Powerline Communications and Visible Light Communications from a Power Electronics Perspective (2024)
+,Jiangnan University,China,,,,,,,,https://openalex.org/A5050096545,,YES,YES,Localization,Xuyang Lou,Fingerprinting Indoor Positioning Based on Improved Sequential Deep Learning (2025)
+,North China Electric Power University,China,,,,,,,,https://openalex.org/A5100768509,,YES,YES,Localization,Hui Liu,Improved Grey Wolf Optimization Algorithm for Intelligent Indoor Positioning Application (2026)
+,Hohai University,China,,,,,,,,,,YES,YES,Localization,Shihu Zhu,A Gaussian Unscented Kalman Filter algorithm for indoor positioning system using Ultra Wide Band measurement (2024)
 ,China University of Mining and Technology,China,,,,,,,,https://www.cumt.edu.cn,,NO,NO,,,
 ,Universidade Nova de Lisboa,Portugal,,,,,,,,https://www.unl.pt,,NO,NO,,,
 ,University of Bath,United Kingdom,,,,,,,,https://www.bath.ac.uk/,,NO,NO,,,
