@@ -2,7 +2,7 @@ Professor,University,Country,Ranking,Subject,Email?,Responed?,Fund,Dead line,Pri
 Davide Dardari,University of Bologna,Italy,,Wireless communication and localization,☑,N,P ~1700,,6.0,https://openalex.org/A5043546527,,YES,YES,FPGA & Edge AI,Pietro Manzoni,An evaluation methodology to determine the actual limitations of a TinyML-based solution (2023)
 Carlo Alberto Boano,Graz University of Technology,Austria,,"IoT, Wireless Sensor Networks",☑,Y!,??,,7.0,https://openalex.org/A5048811541,carloalberto.boano@gmail.com,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Ismail Guvenc,North Carolina State University,The US,,"5G, Localization",☐,,,,5.0,https://openalex.org/A5100624451,,YES,YES,FPGA & Edge AI,Xipeng Shen,Space-Efficient TREC for Enabling Deep Learning on Microcontrollers (2023)
-,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15,7.0,,,YES,YES,,,
+,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15 00:00:00,7.0,,,YES,YES,,,
 Klaus Witrisal, Graz University of Technology,Austria,,Wireless CommunicationsSignal ProcessingChannel ModelingRadio Localization and Sensing,☐,,3000,,6.0,https://openalex.org/A5048811541,,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Olga Saukh, Graz University of Technology,Austria,,embedded intelligencemachine learningdeep learningsensingedge AI,☐,,,,6.0,,,YES,YES,,,
 Rajesh Balan,Singapore Management University,Singapore,,"GPS, Software",☐,,,,6.0,,rajesh@smu.edu.sg,YES,YES,,,
@@ -448,3 +448,15 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,Taras Shevchenko National University of Kyiv,Ukraine,,,,,,,,https://knu.ua,,NO,NO,,,
 ,"China University of Petroleum, Beijing",China,,,,,,,,https://www.cup.edu.cn/,,NO,NO,,,
 ,Tokyo Metropolitan University,Japan,,,,,,,,https://www.tmu.ac.jp,,NO,NO,,,
+,Huazhong University of Science and Technology,China,,,,,,,,http://english.hust.edu.cn/,,NO,NO,,,
+,University of Science and Technology of China,China,,,,,,,,https://ustc.edu.cn,,NO,NO,,,
+,University of Electronic Science and Technology of China,China,,,,,,,,https://www.uestc.edu.cn,,NO,NO,,,
+,Korea Advanced Institute of Science and Technology,South Korea,,,,,,,,https://www.kaist.ac.kr,,NO,NO,,,
+,Universidad de Chile,Chile,,,,,,,,https://uchile.cl/,,NO,NO,,,
+,Universidad de Zaragoza,Spain,,,,,,,,https://www.unizar.es,,NO,NO,,,
+,Universiti Teknologi MARA,Malaysia,,,,,,,,https://uitm.edu.my,,NO,NO,,,
+,Andalas University,Indonesia,,,,,,,,https://www.unand.ac.id,,NO,NO,,,
+,VSB - Technical University of Ostrava,Czechia,,,,,,,,https://www.vsb.cz,,NO,NO,,,
+,University of Science and Technology Beijing,China,,,,,,,,https://www.ustb.edu.cn,,NO,NO,,,
+,Hong Kong University of Science and Technology,Hong Kong,,,,,,,,https://hkust.edu.hk,,NO,NO,,,
+,Nanjing University of Aeronautics and Astronautics,China,,,,,,,,https://www.nuaa.edu.cn,,NO,NO,,,
