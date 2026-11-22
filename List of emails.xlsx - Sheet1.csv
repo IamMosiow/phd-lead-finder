@@ -2,7 +2,7 @@ Professor,University,Country,Ranking,Subject,Email?,Responed?,Fund,Dead line,Pri
 Davide Dardari,University of Bologna,Italy,,Wireless communication and localization,☑,N,P ~1700,,6.0,https://openalex.org/A5043546527,,YES,YES,FPGA & Edge AI,Pietro Manzoni,An evaluation methodology to determine the actual limitations of a TinyML-based solution (2023)
 Carlo Alberto Boano,Graz University of Technology,Austria,,"IoT, Wireless Sensor Networks",☑,Y!,??,,7.0,https://openalex.org/A5048811541,carloalberto.boano@gmail.com,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Ismail Guvenc,North Carolina State University,The US,,"5G, Localization",☐,,,,5.0,https://openalex.org/A5100624451,,YES,YES,FPGA & Edge AI,Xipeng Shen,Space-Efficient TREC for Enabling Deep Learning on Microcontrollers (2023)
-,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15 00:00:00,7.0,,,YES,YES,,,
+,Radbound University,NL,,"Neuroscience, AI and Medicine Exploring Neural Mechanisms of Movement",☑,Y,"€ 3,059 - € 3,881",2025-10-15,7.0,,,YES,YES,,,
 Klaus Witrisal, Graz University of Technology,Austria,,Wireless CommunicationsSignal ProcessingChannel ModelingRadio Localization and Sensing,☐,,3000,,6.0,https://openalex.org/A5048811541,,YES,YES,FPGA & Edge AI,Christian Steger,TPDNet: A Tiny Pupil Detection Neural Network for Embedded Machine Learning Processor Arm Ethos-U55 (2024)
 Olga Saukh, Graz University of Technology,Austria,,embedded intelligencemachine learningdeep learningsensingedge AI,☐,,,,6.0,,,YES,YES,,,
 Rajesh Balan,Singapore Management University,Singapore,,"GPS, Software",☐,,,,6.0,,rajesh@smu.edu.sg,YES,YES,,,
@@ -338,11 +338,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,University of Bath,United Kingdom,,,,,,,,https://openalex.org/A5100697664,,YES,YES,Localization,Ru Li,Semi-Direct SLAM with Manhattan for Indoor Low-Texture Environment (2023)
 ,University of Victoria,Canada,,,,,,,,https://openalex.org/A5049362473,,YES,YES,Localization,Xiaodai Dong,Learning-Based Ultra-Wideband Indoor Ranging (2024)
 ,Pusan National University,South Korea,,,,,,,,https://openalex.org/A5085192467,,YES,YES,Localization,Won–Joo Hwang,Ultrawideband Non-Line-of-Sight Classification Using Transformer-Convolutional Neural Networks (2025)
-,Universidade Federal de São Carlos,Brazil,,,,,,,,https://www.ufscar.br,,NO,NO,,,
-,Universidade Federal da Bahia,Brazil,,,,,,,,https://ufba.br/,,NO,NO,,,
-,Vellore Institute of Technology University,India,,,,,,,,https://vit.ac.in,,NO,NO,,,
-,National Tsing Hua University,Taiwan,,,,,,,,http://www.nthu.edu.tw/english/,,NO,NO,,,
-,Indian Institute of Technology Kharagpur,India,,,,,,,,http://www.iitkgp.ac.in/,,NO,NO,,,
+,Universidade Federal de São Carlos,Brazil,,,,,,,,https://openalex.org/A5062619542,,YES,YES,Wireless Sensing,Fabio Tozeto Ramos,Discrete-Time Markovian Jump Linear Robust Filtering for Visual and GPS Aided Magneto-Inertial Navigation (2025)
+,Universidade Federal da Bahia,Brazil,,,,,,,,https://openalex.org/A5159849468,,YES,YES,Wireless Sensing,Basim S. O. Alsaedi,VarFedFuse: An optimization-driven Bayesian federated variational fusion framework for uncertainty-aware multi-sensor drought monitoring (2026)
+,Vellore Institute of Technology University,India,,,,,,,,https://openalex.org/A5128108200,,YES,YES,Wireless Sensing,Yug Satishkumar Patel,Real-Time Autonomous Drone Detection Using YOLOv5 and Tracking in Multi-Modal Sensor Fusion Techniques (2025)
+,National Tsing Hua University,Taiwan,,,,,,,,https://openalex.org/A5052230746,,YES,YES,Localization,Yun‐Ju Lee,Smart Gait Healthcare Applications: Walking Status and Gait Biometrics (2024)
+,Indian Institute of Technology Kharagpur,India,,,,,,,,,,YES,YES,FPGA & Edge AI,Joydeep Basu,Embedded Machine Learning-Based IoT for In Situ Soil Fertility Estimation Utilizing Low-Cost Sensors (2025)
 ,Ankara University,Türkiye,,,,,,,,https://ankara.edu.tr,,NO,NO,,,
 ,Indian Institute of Technology Delhi,India,,,,,,,,https://home.iitd.ac.in,,NO,NO,,,
 ,Ocean University of China,China,,,,,,,,https://www.ouc.edu.cn,,NO,NO,,,
