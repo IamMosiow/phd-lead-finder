@@ -363,11 +363,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,University of Perugia,Italy,,,,,,,,https://openalex.org/A5066711327,,YES,YES,Localization,Roberto Marsili,Neural Network-Based Indoor Positioning Using BLE Received Signal Strength: A Data-Driven Alternative to Geometric Triangulation for Industrial Safety Applications (2026)
 ,University of Minho,Portugal,,,,,,,,https://openalex.org/A5059422222,,YES,YES,Localization,Joaquín Torres-Sospedra,"ORDIP: Principle, Practice and Guidelines for Open Research Data in Indoor Positioning (2025)"
 ,Indian Institute of Technology Madras,India,,,,,,,,https://openalex.org/A5075290390,,YES,YES,Localization,Radha Krishna Ganti,On the Application of Deep Learning for Precise Indoor Positioning in 6G (2024)
-,Saveetha University,India,,,,,,,,https://www.saveetha.com,,NO,NO,,,
-,University of Aveiro,Portugal,,,,,,,,https://www.ua.pt,,NO,NO,,,
-,Fuzhou University,China,,,,,,,,https://fzu.edu.cn,,NO,NO,,,
-,Indian Institute of Technology Bombay,India,,,,,,,,http://www.iitb.ac.in/,,NO,NO,,,
-,University of Luxembourg,Luxembourg,,,,,,,,https://www.uni.lu,,NO,NO,,,
+,Saveetha University,India,,,,,,,,https://www.saveetha.com,,YES,YES,,,
+,University of Aveiro,Portugal,,,,,,,,https://www.ua.pt,,YES,YES,,,
+,Fuzhou University,China,,,,,,,,https://fzu.edu.cn,,YES,YES,,,
+,Indian Institute of Technology Bombay,India,,,,,,,,http://www.iitb.ac.in/,,YES,YES,,,
+,University of Luxembourg,Luxembourg,,,,,,,,https://www.uni.lu,,YES,YES,,,
 ,Hefei University of Technology,China,,,,,,,,https://www.hfut.edu.cn,,NO,NO,,,
 ,Instituto Superior Técnico,Portugal,,,,,,,,https://tecnico.ulisboa.pt,,NO,NO,,,
 ,Harbin Engineering University,China,,,,,,,,http://www.hrbeu.edu.cn,,NO,NO,,,
