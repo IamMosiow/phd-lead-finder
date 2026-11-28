@@ -368,11 +368,11 @@ Mingzhe Chen,North Carolina State University,,,Complex-Valued Neural-Network-Bas
 ,Fuzhou University,China,,,,,,,,https://fzu.edu.cn,,YES,YES,,,
 ,Indian Institute of Technology Bombay,India,,,,,,,,http://www.iitb.ac.in/,,YES,YES,,,
 ,University of Luxembourg,Luxembourg,,,,,,,,https://www.uni.lu,,YES,YES,,,
-,Hefei University of Technology,China,,,,,,,,https://www.hfut.edu.cn,,NO,NO,,,
-,Instituto Superior Técnico,Portugal,,,,,,,,https://tecnico.ulisboa.pt,,NO,NO,,,
-,Harbin Engineering University,China,,,,,,,,http://www.hrbeu.edu.cn,,NO,NO,,,
-,University of Modena and Reggio Emilia,Italy,,,,,,,,https://www.unimore.it,,NO,NO,,,
-,University of Parma,Italy,,,,,,,,https://www.unipr.it,,NO,NO,,,
+,Hefei University of Technology,China,,,,,,,,https://openalex.org/A5061103594,,YES,YES,Localization,Zheng Yang,REFLoc: A Resilient Evolutionary Fusion Framework for Robust Indoor Localization (2024)
+,Instituto Superior Técnico,Portugal,,,,,,,,https://openalex.org/A5003178960,,YES,YES,Localization,Mário Pereira Véstias,"Enhancing Airport Traffic Flow: Intelligent System Based on VLC, Rerouting Techniques, and Adaptive Reward Learning (2025)"
+,Harbin Engineering University,China,,,,,,,,https://openalex.org/A5078448348,,YES,YES,Localization,Xiaoyan Huang,Research on the principle and positioning accuracy of ultra-wideband indoor positioning algorithm (2023)
+,University of Modena and Reggio Emilia,Italy,,,,,,,,https://openalex.org/A5040483117,,YES,YES,Localization,Miguel Afonso Sellitto,Indoor Positioning Systems in Logistics: A Review (2024)
+,University of Parma,Italy,,,,,,,,https://openalex.org/A5068540890,,YES,YES,Localization,Eleonora Bottani,"Low-Cost UWB Based Real-Time Locating System: Development, Lab Test, Industrial Implementation and Economic Assessment (2023)"
 ,Universidade Federal do Rio Grande do Norte,Brazil,,,,,,,,https://ufrn.br,,NO,NO,,,
 ,Tokyo University of Science,Japan,,,,,,,,https://www.tus.ac.jp/en/,,NO,NO,,,
 ,Universiti Teknologi MARA System,Malaysia,,,,,,,,https://www.uitm.edu.my,,NO,NO,,,
